@@ -1,6 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 .layout {
     display: flex;
-    gap: 24px;
     align-items: flex-start;
 }
 
@@ -109,6 +114,13 @@ main pre {
     overflow: auto;
 }
 
+/* Hide toggle elements on desktop */
+.sidebar-toggle-button,
+.sidebar-toggle,
+.sidebar-overlay {
+    display: none;
+}
+
 /* Responsive: stack sidebar on small screens */
 @media (max-width: 900px) {
     .layout {
@@ -129,17 +141,16 @@ main pre {
         z-index: 30;
     }
 
-    /* Toggle button */
+    /* Show toggle button on mobile */
     .sidebar-toggle-button {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        width: 40px;
-        height: 40px;
-        margin: 8px;
+        height: 20px;
+        padding: 2px 4px;
+        border-radius: 4px;
         background: #111827;
         color: #fff;
-        border-radius: 10px;
         font-weight: 700;
         font-size: 18px;
         user-select: none;
