@@ -4,115 +4,114 @@
 
 This list contains the most commonly used irregular verbs in English with their forms and translations (in Russian for reference).
 
-| Base Form | Past Simple | Past Participle | Translation (RU) | Pronunciation |
-|-----------|-------------|-----------------|------------------|---------------|
-| **be** | was/were | been | быть | /biː/, /wɒz/, /biːn/ |
-| **beat** | beat | beaten | бить | /biːt/ |
-| **become** | became | become | становиться | /bɪˈkʌm/ |
-| **begin** | began | begun | начинать | /bɪˈɡɪn/ |
-| **bend** | bent | bent | сгибать | /bend/ |
-| **bet** | bet | bet | держать пари | /bet/ |
-| **bite** | bit | bitten | кусать | /baɪt/ |
-| **blow** | blew | blown | дуть | /bləʊ/ |
-| **break** | broke | broken | ломать | /breɪk/ |
-| **bring** | brought | brought | приносить | /brɪŋ/ |
-| **build** | built | built | строить | /bɪld/ |
-| **burn** | burnt/burned | burnt/burned | гореть, жечь | /bɜːn/ |
-| **buy** | bought | bought | покупать | /baɪ/ |
-| **catch** | caught | caught | ловить | /kætʃ/ |
-| **choose** | chose | chosen | выбирать | /tʃuːz/ |
-| **come** | came | come | приходить | /kʌm/ |
-| **cost** | cost | cost | стоить | /kɒst/ |
-| **cut** | cut | cut | резать | /kʌt/ |
-| **deal** | dealt | dealt | иметь дело | /diːl/ |
-| **dig** | dug | dug | копать | /dɪɡ/ |
-| **do** | did | done | делать | /duː/ |
-| **draw** | drew | drawn | рисовать | /drɔː/ |
-| **drink** | drank | drunk | пить | /drɪŋk/ |
-| **drive** | drove | driven | водить (машину) | /draɪv/ |
-| **eat** | ate | eaten | есть | /iːt/ |
-| **fall** | fell | fallen | падать | /fɔːl/ |
-| **feed** | fed | fed | кормить | /fiːd/ |
-| **feel** | felt | felt | чувствовать | /fiːl/ |
-| **fight** | fought | fought | драться | /faɪt/ |
-| **find** | found | found | находить | /faɪnd/ |
-| **fly** | flew | flown | летать | /flaɪ/ |
-| **forget** | forgot | forgotten | забывать | /fəˈɡet/ |
-| **forgive** | forgave | forgiven | прощать | /fəˈɡɪv/ |
-| **freeze** | froze | frozen | замерзать | /friːz/ |
-| **get** | got | got/gotten | получать | /ɡet/ |
-| **give** | gave | given | давать | /ɡɪv/ |
-| **go** | went | gone | идти | /ɡəʊ/ |
-| **grow** | grew | grown | расти | /ɡrəʊ/ |
-| **hang** | hung | hung | висеть | /hæŋ/ |
-| **have** | had | had | иметь | /hæv/ |
-| **hear** | heard | heard | слышать | /hɪə/ |
-| **hide** | hid | hidden | прятать | /haɪd/ |
-| **hit** | hit | hit | ударять | /hɪt/ |
-| **hold** | held | held | держать | /həʊld/ |
-| **hurt** | hurt | hurt | причинять боль | /hɜːt/ |
-| **keep** | kept | kept | хранить | /kiːp/ |
-| **know** | knew | known | знать | /nəʊ/ |
-| **lay** | laid | laid | класть | /leɪ/ |
-| **lead** | led | led | вести | /liːd/ |
-| **leave** | left | left | покидать | /liːv/ |
-| **lend** | lent | lent | одалживать | /lend/ |
-| **let** | let | let | позволять | /let/ |
-| **lie** | lay | lain | лежать | /laɪ/ |
-| **light** | lit/lighted | lit/lighted | зажигать | /laɪt/ |
-| **lose** | lost | lost | терять | /luːz/ |
-| **make** | made | made | делать | /meɪk/ |
-| **mean** | meant | meant | означать | /miːn/ |
-| **meet** | met | met | встречать | /miːt/ |
-| **pay** | paid | paid | платить | /peɪ/ |
-| **put** | put | put | класть | /pʊt/ |
-| **read** | read | read | читать | /riːd/, /red/ |
-| **ride** | rode | ridden | ездить верхом | /raɪd/ |
-| **ring** | rang | rung | звонить | /rɪŋ/ |
-| **rise** | rose | risen | подниматься | /raɪz/ |
-| **run** | ran | run | бегать | /rʌn/ |
-| **say** | said | said | говорить | /seɪ/ |
-| **see** | saw | seen | видеть | /siː/ |
-| **seek** | sought | sought | искать | /siːk/ |
-| **sell** | sold | sold | продавать | /sel/ |
-| **send** | sent | sent | посылать | /send/ |
-| **set** | set | set | устанавливать | /set/ |
-| **shake** | shook | shaken | трясти | /ʃeɪk/ |
-| **shine** | shone | shone | светить | /ʃaɪn/ |
-| **shoot** | shot | shot | стрелять | /ʃuːt/ |
-| **show** | showed | shown | показывать | /ʃəʊ/ |
-| **shut** | shut | shut | закрывать | /ʃʌt/ |
-| **sing** | sang | sung | петь | /sɪŋ/ |
-| **sink** | sank | sunk | тонуть | /sɪŋk/ |
-| **sit** | sat | sat | сидеть | /sɪt/ |
-| **sleep** | slept | slept | спать | /sliːp/ |
-| **slide** | slid | slid | скользить | /slaɪd/ |
-| **speak** | spoke | spoken | говорить | /spiːk/ |
-| **spend** | spent | spent | тратить | /spend/ |
-| **spin** | spun | spun | крутить | /spɪn/ |
-| **split** | split | split | разделять | /splɪt/ |
-| **spread** | spread | spread | распространять | /spred/ |
-| **stand** | stood | stood | стоять | /stænd/ |
-| **steal** | stole | stolen | красть | /stiːl/ |
-| **stick** | stuck | stuck | приклеивать | /stɪk/ |
-| **sting** | stung | stung | жалить | /stɪŋ/ |
-| **strike** | struck | struck | ударять | /straɪk/ |
-| **swear** | swore | sworn | клясться | /sweə/ |
-| **sweep** | swept | swept | подметать | /swiːp/ |
-| **swim** | swam | swum | плавать | /swɪm/ |
-| **swing** | swung | swung | качаться | /swɪŋ/ |
-| **take** | took | taken | брать | /teɪk/ |
-| **teach** | taught | taught | учить | /tiːtʃ/ |
-| **tear** | tore | torn | рвать | /teə/ |
-| **tell** | told | told | рассказывать | /tel/ |
-| **think** | thought | thought | думать | /θɪŋk/ |
-| **throw** | threw | thrown | бросать | /θrəʊ/ |
-| **understand** | understood | understood | понимать | /ˌʌndəˈstænd/ |
-| **wake** | woke | woken | просыпаться | /weɪk/ |
-| **wear** | wore | worn | носить (одежду) | /weə/ |
-| **win** | won | won | выигрывать | /wɪn/ |
-| **write** | wrote | written | писать | /raɪt/ |
-
+| Base Form | Past Simple | Past Participle | Translation (RU) |
+|-----------|-------------|-----------------|------------------|
+| **be** /biː/ | was/were /wɒz/ / /wɜː/ | been /biːn/ | быть |
+| **beat** /biːt/ | beat /biːt/ | beaten /ˈbiːtən/ | бить |
+| **become** /bɪˈkʌm/ | became /bɪˈkeɪm/ | become /bɪˈkʌm/ | становиться |
+| **begin** /bɪˈɡɪn/ | began /bɪˈɡæn/ | begun /bɪˈɡʌn/ | начинать |
+| **bend** /bend/ | bent /bent/ | bent /bent/ | сгибать |
+| **bet** /bet/ | bet /bet/ | bet /bet/ | держать пари |
+| **bite** /baɪt/ | bit /bɪt/ | bitten /ˈbɪtən/ | кусать |
+| **blow** /bləʊ/ | blew /bluː/ | blown /bləʊn/ | дуть |
+| **break** /breɪk/ | broke /brəʊk/ | broken /ˈbrəʊkən/ | ломать |
+| **bring** /brɪŋ/ | brought /brɔːt/ | brought /brɔːt/ | приносить |
+| **build** /bɪld/ | built /bɪlt/ | built /bɪlt/ | строить |
+| **burn** /bɜːn/ | burnt/burned /bɜːnt/ / /bɜːnd/ | burnt/burned /bɜːnt/ / /bɜːnd/ | гореть, жечь |
+| **buy** /baɪ/ | bought /bɔːt/ | bought /bɔːt/ | покупать |
+| **catch** /kætʃ/ | caught /kɔːt/ | caught /kɔːt/ | ловить |
+| **choose** /tʃuːz/ | chose /tʃəʊz/ | chosen /ˈtʃəʊzən/ | выбирать |
+| **come** /kʌm/ | came /keɪm/ | come /kʌm/ | приходить |
+| **cost** /kɒst/ | cost /kɒst/ | cost /kɒst/ | стоить |
+| **cut** /kʌt/ | cut /kʌt/ | cut /kʌt/ | резать |
+| **deal** /diːl/ | dealt /delt/ | dealt /delt/ | иметь дело |
+| **dig** /dɪɡ/ | dug /dʌɡ/ | dug /dʌɡ/ | копать |
+| **do** /duː/ | did /dɪd/ | done /dʌn/ | делать |
+| **draw** /drɔː/ | drew /druː/ | drawn /drɔːn/ | рисовать |
+| **drink** /drɪŋk/ | drank /dræŋk/ | drunk /drʌŋk/ | пить |
+| **drive** /draɪv/ | drove /drəʊv/ | driven /ˈdrɪvən/ | водить (машину) |
+| **eat** /iːt/ | ate /et/ (US) / /eɪt/ (UK) | eaten /ˈiːtən/ | есть |
+| **fall** /fɔːl/ | fell /fel/ | fallen /ˈfɔːlən/ | падать |
+| **feed** /fiːd/ | fed /fed/ | fed /fed/ | кормить |
+| **feel** /fiːl/ | felt /felt/ | felt /felt/ | чувствовать |
+| **fight** /faɪt/ | fought /fɔːt/ | fought /fɔːt/ | драться |
+| **find** /faɪnd/ | found /faʊnd/ | found /faʊnd/ | находить |
+| **fly** /flaɪ/ | flew /fluː/ | flown /fləʊn/ | летать |
+| **forget** /fəˈɡet/ | forgot /fəˈɡɒt/ | forgotten /fəˈɡɒtən/ | забывать |
+| **forgive** /fəˈɡɪv/ | forgave /fəˈɡeɪv/ | forgiven /fəˈɡɪvən/ | прощать |
+| **freeze** /friːz/ | froze /frəʊz/ | frozen /ˈfrəʊzən/ | замерзать |
+| **get** /ɡet/ | got /ɡɒt/ | got/gotten /ɡɒt/ / /ˈɡɒtən/ | получать |
+| **give** /ɡɪv/ | gave /ɡeɪv/ | given /ˈɡɪvən/ | давать |
+| **go** /ɡəʊ/ | went /went/ | gone /ɡɒn/ | идти |
+| **grow** /ɡrəʊ/ | grew /ɡruː/ | grown /ɡrəʊn/ | расти |
+| **hang** /hæŋ/ | hung /hʌŋ/ | hung /hʌŋ/ | висеть |
+| **have** /hæv/ | had /hæd/ | had /hæd/ | иметь |
+| **hear** /hɪə/ | heard /hɜːd/ | heard /hɜːd/ | слышать |
+| **hide** /haɪd/ | hid /hɪd/ | hidden /ˈhɪdən/ | прятать |
+| **hit** /hɪt/ | hit /hɪt/ | hit /hɪt/ | ударять |
+| **hold** /həʊld/ | held /held/ | held /held/ | держать |
+| **hurt** /hɜːt/ | hurt /hɜːt/ | hurt /hɜːt/ | причинять боль |
+| **keep** /kiːp/ | kept /kept/ | kept /kept/ | хранить |
+| **know** /nəʊ/ | knew /njuː/ | known /nəʊn/ | знать |
+| **lay** /leɪ/ | laid /leɪd/ | laid /leɪd/ | класть |
+| **lead** /liːd/ | led /led/ | led /led/ | вести |
+| **leave** /liːv/ | left /left/ | left /left/ | покидать |
+| **lend** /lend/ | lent /lent/ | lent /lent/ | одалживать |
+| **let** /let/ | let /let/ | let /let/ | позволять |
+| **lie** /laɪ/ | lay /leɪ/ | lain /leɪn/ | лежать |
+| **light** /laɪt/ | lit/lighted /lɪt/ / /ˈlaɪtɪd/ | lit/lighted /lɪt/ / /ˈlaɪtɪd/ | зажигать |
+| **lose** /luːz/ | lost /lɒst/ | lost /lɒst/ | терять |
+| **make** /meɪk/ | made /meɪd/ | made /meɪd/ | делать |
+| **mean** /miːn/ | meant /ment/ | meant /ment/ | означать |
+| **meet** /miːt/ | met /met/ | met /met/ | встречать |
+| **pay** /peɪ/ | paid /peɪd/ | paid /peɪd/ | платить |
+| **put** /pʊt/ | put /pʊt/ | put /pʊt/ | класть |
+| **read** /riːd/ | read /red/ | read /red/ | читать |
+| **ride** /raɪd/ | rode /rəʊd/ | ridden /ˈrɪdən/ | ездить верхом |
+| **ring** /rɪŋ/ | rang /ræŋ/ | rung /rʌŋ/ | звонить |
+| **rise** /raɪz/ | rose /rəʊz/ | risen /ˈrɪzən/ | подниматься |
+| **run** /rʌn/ | ran /ræn/ | run /rʌn/ | бегать |
+| **say** /seɪ/ | said /sed/ | said /sed/ | говорить |
+| **see** /siː/ | saw /sɔː/ | seen /siːn/ | видеть |
+| **seek** /siːk/ | sought /sɔːt/ | sought /sɔːt/ | искать |
+| **sell** /sel/ | sold /səʊld/ | sold /səʊld/ | продавать |
+| **send** /send/ | sent /sent/ | sent /sent/ | посылать |
+| **set** /set/ | set /set/ | set /set/ | устанавливать |
+| **shake** /ʃeɪk/ | shook /ʃʊk/ | shaken /ˈʃeɪkən/ | трясти |
+| **shine** /ʃaɪn/ | shone /ʃɒn/ | shone /ʃɒn/ | светить |
+| **shoot** /ʃuːt/ | shot /ʃɒt/ | shot /ʃɒt/ | стрелять |
+| **show** /ʃəʊ/ | showed /ʃəʊd/ | shown /ʃəʊn/ | показывать |
+| **shut** /ʃʌt/ | shut /ʃʌt/ | shut /ʃʌt/ | закрывать |
+| **sing** /sɪŋ/ | sang /sæŋ/ | sung /sʌŋ/ | петь |
+| **sink** /sɪŋk/ | sank /sæŋk/ | sunk /sʌŋk/ | тонуть |
+| **sit** /sɪt/ | sat /sæt/ | sat /sæt/ | сидеть |
+| **sleep** /sliːp/ | slept /slept/ | slept /slept/ | спать |
+| **slide** /slaɪd/ | slid /slɪd/ | slid /slɪd/ | скользить |
+| **speak** /spiːk/ | spoke /spəʊk/ | spoken /ˈspəʊkən/ | говорить |
+| **spend** /spend/ | spent /spent/ | spent /spent/ | тратить |
+| **spin** /spɪn/ | spun /spʌn/ | spun /spʌn/ | крутить |
+| **split** /splɪt/ | split /splɪt/ | split /splɪt/ | разделять |
+| **spread** /spred/ | spread /spred/ | spread /spred/ | распространять |
+| **stand** /stænd/ | stood /stʊd/ | stood /stʊd/ | стоять |
+| **steal** /stiːl/ | stole /stəʊl/ | stolen /ˈstəʊlən/ | красть |
+| **stick** /stɪk/ | stuck /stʌk/ | stuck /stʌk/ | приклеивать |
+| **sting** /stɪŋ/ | stung /stʌŋ/ | stung /stʌŋ/ | жалить |
+| **strike** /straɪk/ | struck /strʌk/ | struck /strʌk/ | ударять |
+| **swear** /sweə/ | swore /swɔː/ | sworn /swɔːn/ | клясться |
+| **sweep** /swiːp/ | swept /swept/ | swept /swept/ | подметать |
+| **swim** /swɪm/ | swam /swæm/ | swum /swʌm/ | плавать |
+| **swing** /swɪŋ/ | swung /swʌŋ/ | swung /swʌŋ/ | качаться |
+| **take** /teɪk/ | took /tʊk/ | taken /ˈteɪkən/ | брать |
+| **teach** /tiːtʃ/ | taught /tɔːt/ | taught /tɔːt/ | учить |
+| **tear** /teə/ | tore /tɔː/ | torn /tɔːn/ | рвать |
+| **tell** /tel/ | told /təʊld/ | told /təʊld/ | рассказывать |
+| **think** /θɪŋk/ | thought /θɔːt/ | thought /θɔːt/ | думать |
+| **throw** /θrəʊ/ | threw /θruː/ | thrown /θrəʊn/ | бросать |
+| **understand** /ˌʌndəˈstænd/ | understood /ˌʌndəˈstʊd/ | understood /ˌʌndəˈstʊd/ | понимать |
+| **wake** /weɪk/ | woke /wəʊk/ | woken /ˈwəʊkən/ | просыпаться |
+| **wear** /weə/ | wore /wɔː/ | worn /wɔːn/ | носить (одежду) |
+| **win** /wɪn/ | won /wʌn/ | won /wʌn/ | выигрывать |
+| **write** /raɪt/ | wrote /rəʊt/ | written /ˈrɪtən/ | писать |
 ---
 
 ## Patterns in Irregular Verbs
