@@ -1,4 +1,12 @@
+---
+title: English Tenses (Overview)
+---
+
 # 📖 English Tenses
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" alt="Open book icon" width="64">
+</div>
 
 [← Back to Main](./README.md)
 

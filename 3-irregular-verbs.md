@@ -1,3 +1,7 @@
+---
+title: Irregular Verbs
+---
+
 # 📝 Irregular Verbs
 
 <div align="center">
@@ -16,9 +20,9 @@
 
 This list contains the most commonly used irregular verbs in English with their forms and translations (in Russian for reference).
 
-| Base Form | Pronunciation | Past Simple | Pronunciation | Past Participle | Pronunciation | RU |
+| Base Form |  | Past Simple |  | Past Participle |  | RU |
 |-----------|---------------|-------------|---------------|-----------------|---------------|------------------|
-| **be** | /biː/ | was/were | /wɒz/ / /wɜː/ | been | /biːn/ | быть |
+| **be** | /biː/ | was / were | /wɒz/ / /wɜː/ | been | /biːn/ | быть |
 | **beat** | /biːt/ | beat | /biːt/ | beaten | /ˈbiːtən/ | бить |
 | **become** | /bɪˈkʌm/ | became | /bɪˈkeɪm/ | become | /bɪˈkʌm/ | становиться |
 | **begin** | /bɪˈɡɪn/ | began | /bɪˈɡæn/ | begun | /bɪˈɡʌn/ | начинать |

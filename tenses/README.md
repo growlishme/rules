@@ -1,3 +1,7 @@
+---
+title: Tenses
+---
+
 # 📖 English Tenses
 
 <div align="center">

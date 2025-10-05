@@ -1,3 +1,7 @@
+---
+title: Future Simple (Will)
+---
+
 # Future Simple (Will)
 
 <div align="center">
