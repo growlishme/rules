@@ -4,11 +4,11 @@ title: Past Perfect
 
 # Past Perfect
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2714.png" alt="Check mark icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](06-past-continuous.md) • [Next →](08-past-perfect-continuous.md)
 
@@ -38,7 +38,7 @@ Used for actions completed before another past action.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Past Perfect Continuous →](08-past-perfect-continuous.md)
 

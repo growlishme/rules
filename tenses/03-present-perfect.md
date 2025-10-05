@@ -4,11 +4,11 @@ title: Present Perfect
 
 # Present Perfect
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png" alt="Memo icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](02-present-continuous.md) • [Next →](04-present-perfect-continuous.md)
 
@@ -47,7 +47,7 @@ Used to connect past actions with the present.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Present Perfect Continuous →](04-present-perfect-continuous.md)
 

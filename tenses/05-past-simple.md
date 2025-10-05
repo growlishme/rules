@@ -4,11 +4,11 @@ title: Past Simple
 
 # Past Simple
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f552.png" alt="Clock icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](04-present-perfect-continuous.md) • [Next →](06-past-continuous.md)
 
@@ -45,7 +45,7 @@ Used for completed actions in the past.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Past Continuous →](06-past-continuous.md)
 

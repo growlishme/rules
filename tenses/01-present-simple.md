@@ -4,11 +4,11 @@ title: Present Simple
 
 # Present Simple
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c5.png" alt="Calendar icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](./README.md) • [Next →](02-present-continuous.md)
 
@@ -45,7 +45,7 @@ Used for habitual actions, general truths, and permanent situations.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Present Continuous →](02-present-continuous.md)
 

@@ -4,11 +4,11 @@ title: Future Simple (Will)
 
 # Future Simple (Will)
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f52e.png" alt="Crystal ball icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](08-past-perfect-continuous.md) • [Next →](10-future-going-to.md)
 
@@ -46,7 +46,7 @@ Used for predictions, spontaneous decisions, and promises.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Future Simple (Going to) →](10-future-going-to.md)
 

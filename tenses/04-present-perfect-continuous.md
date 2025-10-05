@@ -4,11 +4,11 @@ title: Present Perfect Continuous
 
 # Present Perfect Continuous
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f1.png" alt="Stopwatch icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](03-present-perfect.md) • [Next →](05-past-simple.md)
 
@@ -38,7 +38,7 @@ Used to emphasize the duration of an action that started in the past and continu
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Past Simple →](05-past-simple.md)
 

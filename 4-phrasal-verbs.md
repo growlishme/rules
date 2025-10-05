@@ -4,11 +4,11 @@ title: Phrasal Verbs
 
 # 💬 Phrasal Verbs
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" alt="Clipboard icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Main]({{ '/' | relative_url }}) • [Common Phrasal Verbs](#common-phrasal-verbs) • [Tips](#tips-for-learning-phrasal-verbs)
 
@@ -203,7 +203,7 @@ The object must come after the particle.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 📚 Keep Learning!
 

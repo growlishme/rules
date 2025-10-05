@@ -4,11 +4,11 @@ title: Adjective + Preposition Combinations
 
 # Adjective + Preposition Combinations
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" alt="Light bulb icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](04-common-expressions.md) • [Next →](06-verb-combinations.md)
 
@@ -67,7 +67,7 @@ title: Adjective + Preposition Combinations
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Verb + Preposition →](06-verb-combinations.md)
 

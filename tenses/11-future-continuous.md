@@ -4,11 +4,11 @@ title: Future Continuous
 
 # Future Continuous
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f2.png" alt="Timer clock icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](10-future-going-to.md) • [Next →](12-future-perfect.md)
 
@@ -36,7 +36,7 @@ Used for actions in progress at a specific time in the future.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Future Perfect →](12-future-perfect.md)
 

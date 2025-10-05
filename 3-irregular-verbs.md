@@ -4,11 +4,11 @@ title: Irregular Verbs
 
 # 📝 Irregular Verbs
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4da.png" alt="Books icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Main]({{ '/' | relative_url }}) • [Common Verbs](#common-irregular-verbs-with-translations) • [Patterns](#patterns-in-irregular-verbs) • [Tips](#tips-for-learning-irregular-verbs)
 
@@ -280,7 +280,7 @@ These 25 irregular verbs account for the majority of irregular verb usage in Eng
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 📚 Master Irregular Verbs!
 

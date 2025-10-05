@@ -4,11 +4,11 @@ title: Future Perfect
 
 # Future Perfect
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2705.png" alt="Green check icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](11-future-continuous.md) • [Next →](13-future-perfect-continuous.md)
 
@@ -36,7 +36,7 @@ Used for actions that will be completed before a specific time in the future.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Future Perfect Continuous →](13-future-perfect-continuous.md)
 

@@ -4,11 +4,11 @@ title: Common Mistakes with Prepositions
 
 # Common Mistakes with Prepositions
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26a0.png" alt="Warning icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](06-verb-combinations.md) • [Next →](08-learning-tips.md)
 
@@ -55,7 +55,7 @@ title: Common Mistakes with Prepositions
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Learning Tips →](08-learning-tips.md)
 

@@ -4,7 +4,7 @@ title: Prepositions (Guide)
 
 # 📍 English Prepositions
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Main](../) • [Time](#-time) • [Place](#-place) • [Movement](#-movement) • [Common Expressions](#-common-expressions)
 
@@ -16,7 +16,7 @@ Master English prepositions with our comprehensive guide organized by meaning an
 
 ## 📚 Quick Navigation
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Category | Focus | Common Words |
 |----------|-------|--------------|
@@ -148,7 +148,7 @@ Effective methods to learn and remember prepositions:
 
 ## 🎯 Quick Reference Chart
 
-<div align="center">
+<div align="center" markdown="1">
 
 | | AT | IN | ON |
 |---|----|----|-----|
@@ -185,7 +185,7 @@ Prepositions are one of the trickiest parts of English because:
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 📚 Ready to Start?
 

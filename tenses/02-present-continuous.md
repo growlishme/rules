@@ -4,11 +4,11 @@ title: Present Continuous
 
 # Present Continuous
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f3.png" alt="Hourglass icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](01-present-simple.md) • [Next →](03-present-perfect.md)
 
@@ -45,7 +45,7 @@ Used for actions happening now or around the present time.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Present Perfect →](03-present-perfect.md)
 

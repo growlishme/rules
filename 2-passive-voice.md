@@ -4,11 +4,11 @@ title: Passive Voice
 
 # 🔄 Passive Voice
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png" alt="Arrows circle icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Main]({{ '/' | relative_url }}) • [Formation](#formation) • [Tenses](#passive-voice-in-different-tenses) • [Special Cases](#special-cases) • [Common Mistakes](#common-mistakes-to-avoid)
 
@@ -299,7 +299,7 @@ The phrasal verb stays together in passive voice.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 📚 Practice Makes Perfect!
 

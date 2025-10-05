@@ -4,11 +4,11 @@ title: Verb + Preposition Combinations
 
 # Verb + Preposition Combinations
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/270d.png" alt="Writing hand icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](05-adjective-combinations.md) • [Next →](07-common-mistakes.md)
 
@@ -91,7 +91,7 @@ title: Verb + Preposition Combinations
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Common Mistakes →](07-common-mistakes.md)
 

@@ -4,7 +4,7 @@ title: Prepositions
 
 # 📍 Prepositions
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cd.png" alt="Location pin icon" width="64">
 </div>
 

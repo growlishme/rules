@@ -4,11 +4,11 @@ title: Tips for Learning Prepositions
 
 # Tips for Learning Prepositions
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d2.png" alt="Ledger icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](07-common-mistakes.md) • [Back to Start →](01-time.md)
 
@@ -30,7 +30,7 @@ title: Tips for Learning Prepositions
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Back to Start →](01-time.md)
 

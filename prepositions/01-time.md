@@ -4,11 +4,11 @@ title: Prepositions of Time
 
 # Prepositions of Time
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f0.png" alt="Alarm clock icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next →](02-place.md)
 
@@ -96,7 +96,7 @@ title: Prepositions of Time
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Prepositions of Place →](02-place.md)
 

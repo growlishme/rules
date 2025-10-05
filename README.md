@@ -5,27 +5,25 @@ permalink: /
 
 # 📚 English Grammar Rules
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" alt="Open book icon" width="72">
 </div>
 
 Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
 
+## 🚀 Quick Links
+
 <div align="center" markdown="1">
 
-[📖 Tenses](1-tenses/) • [🔄 Passive Voice](2-passive-voice.md) • [📝 Irregular Verbs](3-irregular-verbs.md) • [💬 Phrasal Verbs](4-phrasal-verbs.md) • [📍 Prepositions](5-prepositions/)
+| Section | Description |
+|---------|-------------|
+| [📖 Tenses](1-tenses/) | All 13 English tenses |
+| [🔄 Passive Voice](2-passive-voice.md) | Active vs. Passive forms |
+| [📝 Irregular Verbs](3-irregular-verbs.md) | 100+ verbs with patterns |
+| [💬 Phrasal Verbs](4-phrasal-verbs.md) | 140+ common phrasal verbs |
+| [📍 Prepositions](5-prepositions/) | Time, place, movement |
 
 </div>
-
----
-
-## 🎯 Quick Start Guide
-
-Choose your learning path based on your needs:
-
-- **🆕 Beginners**: Start with [Tenses](1-tenses/) → [Irregular Verbs](3-irregular-verbs.md) → [Prepositions](5-prepositions/)
-- **📈 Intermediate**: Focus on [Phrasal Verbs](4-phrasal-verbs.md) and [Passive Voice](2-passive-voice.md)
-- **🎓 Advanced**: Review all sections and focus on the nuances and exceptions
 
 ---
 
@@ -144,50 +142,7 @@ Master English prepositions with our organized approach:
 
 ---
 
-## 🎯 How to Use This Resource
-
-### 📚 Study Strategy
-
-1. **🏁 Start with basics**: Begin with tenses if building fundamental knowledge
-2. **📊 Learn systematically**: Work through sections in order
-3. **✍️ Practice actively**: Create your own example sentences
-4. **🔄 Review regularly**: Revisit sections you've studied
-5. **🌍 Use real examples**: Find patterns in authentic materials
-6. **⭐ Focus on frequency**: Master common items first
-7. **📝 Keep notes**: Record memorable examples
-
-### 💡 Learning Tips
-
-- **⏰ Consistency**: Study daily, even if just for 15 minutes
-- **🎯 Context**: Always learn grammar with example sentences
-- **💪 Active practice**: Use new knowledge in speaking/writing
-- **✅ Make mistakes**: Errors are part of the learning process
-- **👥 Get feedback**: Practice with others for corrections
-- **🧘 Be patient**: Language learning is a gradual process
-
----
-
-## 🚀 Quick Links
-
-<div align="center">
-
-| Section | Description | Difficulty |
-|---------|-------------|------------|
-| [📖 Tenses](1-tenses/) | All 13 English tenses | Beginner → Advanced |
-| [🔄 Passive Voice](2-passive-voice.md) | Active vs. Passive forms | Intermediate |
-| [📝 Irregular Verbs](3-irregular-verbs.md) | 100+ verbs with patterns | Beginner → Intermediate |
-| [💬 Phrasal Verbs](4-phrasal-verbs.md) | 140+ common phrasal verbs | Intermediate → Advanced |
-| [📍 Prepositions](5-prepositions/) | Time, place, movement | Beginner → Advanced |
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Happy Learning! 🌟 
-
-Remember: **Practice makes perfect!**
+<div align="center" markdown="1">
 
 [Back to Top ↑](#-english-grammar-rules)
 

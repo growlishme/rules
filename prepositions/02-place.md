@@ -4,11 +4,11 @@ title: Prepositions of Place
 
 # Prepositions of Place
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3e0.png" alt="House icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](01-time.md) • [Next →](03-movement-direction.md)
 
@@ -154,7 +154,7 @@ title: Prepositions of Place
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Movement/Direction →](03-movement-direction.md)
 

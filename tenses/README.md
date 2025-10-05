@@ -4,7 +4,7 @@ title: Tenses
 
 # 📖 English Tenses
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Main]({{ '/' | relative_url }}) • [Present Tenses](#-present-tenses) • [Past Tenses](#-past-tenses) • [Future Tenses](#-future-tenses)
 
@@ -16,7 +16,7 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 
 ## 📚 Quick Navigation
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Present | Past | Future |
 |---------|------|--------|
@@ -170,7 +170,7 @@ Can you identify which tense to use?
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 📚 Ready to Start Learning?
 

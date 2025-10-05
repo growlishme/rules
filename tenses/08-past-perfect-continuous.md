@@ -4,11 +4,11 @@ title: Past Perfect Continuous
 
 # Past Perfect Continuous
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c3.png" alt="Running person icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [← Previous](07-past-perfect.md) • [Next →](09-future-simple-will.md)
 
@@ -36,7 +36,7 @@ Used to emphasize the duration of an action up to a point in the past.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Tenses](./) • [Next: Future Simple (Will) →](09-future-simple-will.md)
 

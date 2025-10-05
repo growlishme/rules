@@ -4,11 +4,11 @@ title: Prepositions in Common Expressions
 
 # Prepositions in Common Expressions
 
-<div align="center">
+<div align="center" markdown="1">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ac.png" alt="Speech balloon icon" width="64">
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [← Previous](03-movement-direction.md) • [Next →](05-adjective-combinations.md)
 
@@ -120,7 +120,7 @@ title: Prepositions in Common Expressions
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 [← Back to Prepositions](./README.md) • [Next: Adjective + Preposition →](05-adjective-combinations.md)
 
