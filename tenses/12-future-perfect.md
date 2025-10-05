@@ -8,7 +8,7 @@ title: Future Perfect
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [← Previous](11-future-continuous.md) • [Next →](13-future-perfect-continuous.md)
+[← Back to Tenses](./README.html) • [← Previous](11-future-continuous.md) • [Next →](13-future-perfect-continuous.md)
 
 </div>
 
@@ -36,6 +36,6 @@ Used for actions that will be completed before a specific time in the future.
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next: Future Perfect Continuous →](13-future-perfect-continuous.md)
+[← Back to Tenses](./README.html) • [Next: Future Perfect Continuous →](13-future-perfect-continuous.md)
 
 </div>

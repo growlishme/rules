@@ -8,7 +8,7 @@ title: Past Perfect
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [← Previous](06-past-continuous.md) • [Next →](08-past-perfect-continuous.md)
+[← Back to Tenses](./README.html) • [← Previous](06-past-continuous.md) • [Next →](08-past-perfect-continuous.md)
 
 </div>
 
@@ -38,6 +38,6 @@ Used for actions completed before another past action.
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next: Past Perfect Continuous →](08-past-perfect-continuous.md)
+[← Back to Tenses](./README.html) • [Next: Past Perfect Continuous →](08-past-perfect-continuous.md)
 
 </div>

@@ -8,7 +8,7 @@ title: Present Simple
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next →](02-present-continuous.md)
+[← Back to Tenses](./README.html) • [Next →](02-present-continuous.md)
 
 </div>
 
@@ -45,6 +45,6 @@ Used for habitual actions, general truths, and permanent situations.
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next: Present Continuous →](02-present-continuous.md)
+[← Back to Tenses](./README.html) • [Next: Present Continuous →](02-present-continuous.md)
 
 </div>

@@ -8,7 +8,7 @@ title: Future Simple (Going to)
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [← Previous](09-future-simple-will.md) • [Next →](11-future-continuous.md)
+[← Back to Tenses](./README.html) • [← Previous](09-future-simple-will.md) • [Next →](11-future-continuous.md)
 
 </div>
 
@@ -42,6 +42,6 @@ Used for plans and intentions, and predictions based on evidence.
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next: Future Continuous →](11-future-continuous.md)
+[← Back to Tenses](./README.html) • [Next: Future Continuous →](11-future-continuous.md)
 
 </div>

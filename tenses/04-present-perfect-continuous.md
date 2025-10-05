@@ -8,7 +8,7 @@ title: Present Perfect Continuous
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [← Previous](03-present-perfect.md) • [Next →](05-past-simple.md)
+[← Back to Tenses](./README.html) • [← Previous](03-present-perfect.md) • [Next →](05-past-simple.md)
 
 </div>
 
@@ -38,6 +38,6 @@ Used to emphasize the duration of an action that started in the past and continu
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [Next: Past Simple →](05-past-simple.md)
+[← Back to Tenses](./README.html) • [Next: Past Simple →](05-past-simple.md)
 
 </div>
