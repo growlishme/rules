@@ -274,21 +274,3 @@ main tr:nth-child(even) td {
 .table-responsive tr:nth-child(even) td {
     background: #fcfcfd;
 }
-
-@media (max-width: 700px) {
-    main table {
-        display: block;
-        width: 100%;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        border-collapse: separate;
-        white-space: nowrap;
-    }
-
-    main th,
-    main td {
-        min-width: 120px;
-        font-size: 14px;
-        padding: 6px 8px;
-    }
-}
