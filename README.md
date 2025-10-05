@@ -11,6 +11,8 @@ permalink: /
 
 Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
 
+---
+
 ## 🚀 Quick Links
 
 <div align="center" markdown="1">
@@ -27,9 +29,7 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 ---
 
-## 📖 Tenses
-
-### [Complete Tenses Guide →](1-tenses/)
+## [📖 Tenses](1-tenses/)
 
 Master all English tenses with our structured approach:
 
@@ -54,9 +54,7 @@ Master all English tenses with our structured approach:
 
 ---
 
-## 🔄 Passive Voice
-
-### [Complete Passive Voice Guide →](2-passive-voice.md)
+## [🔄 Passive Voice](2-passive-voice.md)
 
 Learn when and how to use passive voice effectively:
 
@@ -71,9 +69,7 @@ Learn when and how to use passive voice effectively:
 
 ---
 
-## 📝 Irregular Verbs
-
-### [Complete Irregular Verbs List →](3-irregular-verbs.md)
+## [📝 Irregular Verbs](3-irregular-verbs.md)
 
 Master **100+ irregular verbs** with our comprehensive table featuring:
 
@@ -91,9 +87,7 @@ Master **100+ irregular verbs** with our comprehensive table featuring:
 
 ---
 
-## 💬 Phrasal Verbs
-
-### [Complete Phrasal Verbs Collection →](4-phrasal-verbs.md)
+## [💬 Phrasal Verbs](4-phrasal-verbs.md)
 
 Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
@@ -110,9 +104,7 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 ---
 
-## 📍 Prepositions
-
-### [Complete Prepositions Guide →](5-prepositions/)
+## [📍 Prepositions](5-prepositions/)
 
 Master English prepositions with our organized approach:
 
