@@ -27,7 +27,7 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 ---
 
-## [📖 Tenses]({{ '/1-tenses.html' | relative_url }})
+## 📖 [Tenses]({{ '/1-tenses.html' | relative_url }})
 
 Master all English tenses with our structured approach:
 
@@ -52,7 +52,7 @@ Master all English tenses with our structured approach:
 
 ---
 
-## [🔄 Passive Voice]({{ '/2-passive-voice.html' | relative_url }})
+## 🔄 [Passive Voice]({{ '/2-passive-voice.html' | relative_url }})
 
 Learn when and how to use passive voice effectively:
 
@@ -67,7 +67,7 @@ Learn when and how to use passive voice effectively:
 
 ---
 
-## [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }})
+## 📝 [Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }})
 
 Master **100+ irregular verbs** with our comprehensive table featuring:
 
@@ -85,7 +85,7 @@ Master **100+ irregular verbs** with our comprehensive table featuring:
 
 ---
 
-## [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }})
+## 💬 [Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }})
 
 Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
@@ -102,7 +102,7 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 ---
 
-## [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }})
+## 📍 [Prepositions]({{ '/5-prepositions.html' | relative_url }})
 
 Master English prepositions with our organized approach:
 
