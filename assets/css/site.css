@@ -243,6 +243,38 @@ main tr:nth-child(even) td {
     white-space: nowrap;
 }
 
+.table-responsive table {
+    width: 100%;
+}
+
+.table-responsive th,
+.table-responsive td {
+    min-width: 120px;
+    font-size: 14px;
+    padding: 6px 8px;
+}
+
+.table-responsive td:nth-child(2),
+.table-responsive td:nth-child(4),
+.table-responsive td:nth-child(6) {
+    font-size: 12px;
+    min-width: 60px;
+}
+
+.table-responsive td:last-child {
+    font-size: 13px;
+    min-width: 70px;
+}
+
+.table-responsive th {
+    background: #fcfcfd;
+    text-align: left;
+}
+
+.table-responsive tr:nth-child(even) td {
+    background: #fcfcfd;
+}
+
 @media (max-width: 700px) {
     main table {
         display: block;

@@ -8,7 +8,7 @@ title: Common Mistakes with Prepositions
 
 <div align="center" markdown="1">
 
-[← Back to Prepositions](./README.md) • [← Previous](06-verb-combinations.md)
+[← Back to Prepositions](./README.md) • [← Previous](06-verb-combinations.md) • [Back to Start →](01-time.md)
 
 </div>
 
@@ -55,6 +55,6 @@ title: Common Mistakes with Prepositions
 
 <div align="center" markdown="1">
 
-[← Back to Prepositions](./README.md)
+[← Back to Prepositions](./README.md) • [Back to Start →](01-time.md)
 
 </div>
