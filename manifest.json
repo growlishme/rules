@@ -5,7 +5,7 @@
     "start_url": "/rules/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#0366d6",
+    "theme_color": "#ffffff",
     "orientation": "portrait-primary",
     "scope": "/rules/",
     "lang": "en",
