@@ -4,9 +4,25 @@
   <meta charset="utf-8">
   {% seo %}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- PWA Meta Tags -->
+  <meta name="theme-color" content="#0366d6">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Grammar Rules">
+  <meta name="msapplication-TileColor" content="#0366d6">
+  <meta name="msapplication-tap-highlight" content="no">
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+  
+  <!-- Icons -->
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ '/assets/icons/icon-192x192.svg' | relative_url }}">
+  
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <title>{{ page.title | default: site.title }}</title>
   <style>
     /* Minimal reset for markdown content */
@@ -29,6 +45,21 @@
       {{ content }}
     </main>
   </div>
+  
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}')
+          .then(function(registration) {
+            console.log('ServiceWorker registration successful');
+          })
+          .catch(function(err) {
+            console.log('ServiceWorker registration failed: ', err);
+          });
+      });
+    }
+  </script>
 </body>
 </html>
 
