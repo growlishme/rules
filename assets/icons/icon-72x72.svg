@@ -1,5 +1,7 @@
 <svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <rect width="72" height="72" rx="7.2" fill="#0366d6"/>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" 
-        font-family="Arial, sans-serif" font-size="21.599999999999998" font-weight="bold" fill="white">GR</text>
+  <rect width="72" height="72" rx="10.799999999999999" fill="#000000"/>
+  <text x="50%" y="28.8" text-anchor="middle" dominant-baseline="middle" 
+        font-family="Arial, sans-serif" font-size="12.959999999999999" font-weight="bold" fill="white">Grow</text>
+  <text x="50%" y="46.800000000000004" text-anchor="middle" dominant-baseline="middle" 
+        font-family="Arial, sans-serif" font-size="12.959999999999999" font-weight="bold" fill="white">Lish</text>
 </svg>
