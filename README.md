@@ -11,11 +11,11 @@ permalink: /
 
 Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
 
-<!-- <div align="center"> -->
+<div align="center" markdown="1">
 
 [📖 Tenses](1-tenses/) • [🔄 Passive Voice](2-passive-voice.md) • [📝 Irregular Verbs](3-irregular-verbs.md) • [💬 Phrasal Verbs](4-phrasal-verbs.md) • [📍 Prepositions](5-prepositions/)
 
-<!-- </div> -->
+</div>
 
 ---
 
@@ -183,21 +183,9 @@ Master English prepositions with our organized approach:
 
 ---
 
-## 📋 Features
-
-- ✅ **Comprehensive coverage** of essential English grammar
-- 🌐 **Russian translations** for better understanding
-- 🔊 **IPA pronunciation** guides where relevant
-- 📊 **Organized tables** for easy reference
-- 💡 **Practical examples** for real-world usage
-- 🎯 **Progressive difficulty** from basic to advanced
-- 📱 **Mobile-friendly** formatting
-
----
-
 <div align="center">
 
-### 🌟 Happy Learning! 🌟
+### 🌟 Happy Learning! 🌟 
 
 Remember: **Practice makes perfect!**
 
