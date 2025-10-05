@@ -82,10 +82,14 @@ Strategies for mastering prepositions:
 
 ## Quick Reference Guide
 
+<div class="table-responsive">
+
 | Context | AT | IN | ON |
 |---------|----|----|-----|
 | **Time** | specific times<br>(at 5 PM, at noon) | longer periods<br>(in May, in summer) | days & dates<br>(on Monday, on July 4th) |
 | **Place** | specific points<br>(at home, at work) | enclosed spaces<br>(in the room, in Paris) | surfaces<br>(on the table, on the wall) |
+
+</div>
 
 ---
 

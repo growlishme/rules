@@ -5,15 +5,13 @@ permalink: /
 
 # 📚 English Grammar Rules
 
- 
-
-Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
-
 ---
 
 ## 🚀 Quick Links
 
 <div align="center" markdown="1">
+
+<div class="table-responsive">
 
 | Section | Description |
 |---------|-------------|
@@ -22,6 +20,8 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 | [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }}) | 100+ verbs with patterns |
 | [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }}) | 140+ common phrasal verbs |
 | [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }}) | Time, place, movement |
+
+</div>
 
 </div>
 

@@ -18,6 +18,8 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 
 <div align="center" markdown="1">
 
+<div class="table-responsive">
+
 | Present | Past | Future |
 |---------|------|--------|
 | [Simple](01-present-simple.html) | [Simple](05-past-simple.html) | [Simple (Will)](09-future-simple-will.html) |
@@ -25,6 +27,8 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 | [Perfect](03-present-perfect.html) | [Perfect](07-past-perfect.html) | [Continuous](11-future-continuous.html) |
 | [Perfect Continuous](04-present-perfect-continuous.html) | [Perfect Continuous](08-past-perfect-continuous.html) | [Perfect](12-future-perfect.html) |
 | | | [Perfect Continuous](13-future-perfect-continuous.html) |
+
+</div>
 
 </div>
 
