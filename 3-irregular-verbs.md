@@ -22,7 +22,7 @@ This list contains the most commonly used irregular verbs in English with their 
 
 [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [K](#k) • [L](#l) • [M](#m) • [P](#p) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [W](#w)
 
-<div class="table-responsive">
+<div class="table-responsive" markdown="1">
 
 | Base Form |  | Past Simple |  | Past Participle |  | RU |
 |-----------|---------------|-------------|---------------|-----------------|---------------|------------------|
