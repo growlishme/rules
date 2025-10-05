@@ -11,11 +11,11 @@ permalink: /
 
 Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
 
-<div align="center">
+<!-- <div align="center"> -->
 
-[📖 Tenses](tenses/) • [🔄 Passive Voice](2-passive-voice.md) • [📝 Irregular Verbs](3-irregular-verbs.md) • [💬 Phrasal Verbs](4-phrasal-verbs.md) • [📍 Prepositions](prepositions/)
+[📖 Tenses](1-tenses/) • [🔄 Passive Voice](2-passive-voice.md) • [📝 Irregular Verbs](3-irregular-verbs.md) • [💬 Phrasal Verbs](4-phrasal-verbs.md) • [📍 Prepositions](5-prepositions/)
 
-</div>
+<!-- </div> -->
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 Choose your learning path based on your needs:
 
-- **🆕 Beginners**: Start with [Tenses](tenses/) → [Irregular Verbs](3-irregular-verbs.md) → [Prepositions](prepositions/)
+- **🆕 Beginners**: Start with [Tenses](1-tenses/) → [Irregular Verbs](3-irregular-verbs.md) → [Prepositions](5-prepositions/)
 - **📈 Intermediate**: Focus on [Phrasal Verbs](4-phrasal-verbs.md) and [Passive Voice](2-passive-voice.md)
 - **🎓 Advanced**: Review all sections and focus on the nuances and exceptions
 
@@ -31,7 +31,7 @@ Choose your learning path based on your needs:
 
 ## 📖 Tenses
 
-### [Complete Tenses Guide →](tenses/)
+### [Complete Tenses Guide →](1-tenses/)
 
 Master all English tenses with our structured approach:
 
@@ -114,7 +114,7 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 ## 📍 Prepositions
 
-### [Complete Prepositions Guide →](prepositions/)
+### [Complete Prepositions Guide →](5-prepositions/)
 
 Master English prepositions with our organized approach:
 
@@ -173,11 +173,11 @@ Master English prepositions with our organized approach:
 
 | Section | Description | Difficulty |
 |---------|-------------|------------|
-| [📖 Tenses](tenses/) | All 13 English tenses | Beginner → Advanced |
+| [📖 Tenses](1-tenses/) | All 13 English tenses | Beginner → Advanced |
 | [🔄 Passive Voice](2-passive-voice.md) | Active vs. Passive forms | Intermediate |
 | [📝 Irregular Verbs](3-irregular-verbs.md) | 100+ verbs with patterns | Beginner → Intermediate |
 | [💬 Phrasal Verbs](4-phrasal-verbs.md) | 140+ common phrasal verbs | Intermediate → Advanced |
-| [📍 Prepositions](prepositions/) | Time, place, movement | Beginner → Advanced |
+| [📍 Prepositions](5-prepositions/) | Time, place, movement | Beginner → Advanced |
 
 </div>
 
