@@ -4,9 +4,7 @@ title: Future Continuous
 
 # Future Continuous
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f2.png" alt="Timer clock icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 

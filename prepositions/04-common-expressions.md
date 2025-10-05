@@ -4,9 +4,7 @@ title: Prepositions in Common Expressions
 
 # Prepositions in Common Expressions
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ac.png" alt="Speech balloon icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 

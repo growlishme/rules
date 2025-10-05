@@ -5,9 +5,7 @@ permalink: /
 
 # 📚 English Grammar Rules
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" alt="Open book icon" width="72">
-</div>
+ 
 
 Welcome to your comprehensive guide to English grammar! This collection covers everything from basic tenses to advanced phrasal verbs, designed to help learners at all levels master English.
 
@@ -19,42 +17,42 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 | Section | Description |
 |---------|-------------|
-| [📖 Tenses](1-tenses/) | All 13 English tenses |
-| [🔄 Passive Voice](2-passive-voice.md) | Active vs. Passive forms |
-| [📝 Irregular Verbs](3-irregular-verbs.md) | 100+ verbs with patterns |
-| [💬 Phrasal Verbs](4-phrasal-verbs.md) | 140+ common phrasal verbs |
-| [📍 Prepositions](5-prepositions/) | Time, place, movement |
+| [📖 Tenses]({{ '/1-tenses.html' | relative_url }}) | All 13 English tenses |
+| [🔄 Passive Voice]({{ '/2-passive-voice.html' | relative_url }}) | Active vs. Passive forms |
+| [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }}) | 100+ verbs with patterns |
+| [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }}) | 140+ common phrasal verbs |
+| [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }}) | Time, place, movement |
 
 </div>
 
 ---
 
-## [📖 Tenses](1-tenses/)
+## [📖 Tenses]({{ '/1-tenses.html' | relative_url }})
 
 Master all English tenses with our structured approach:
 
 #### Present Tenses
-- **[Present Simple](tenses/01-present-simple.md)** - Habits, routines, and general truths
-- **[Present Continuous](tenses/02-present-continuous.md)** - Actions happening now
-- **[Present Perfect](tenses/03-present-perfect.md)** - Past actions with present relevance
-- **[Present Perfect Continuous](tenses/04-present-perfect-continuous.md)** - Duration continuing to present
+- **[Present Simple]({{ '/tenses/01-present-simple.html' | relative_url }})** - Habits, routines, and general truths
+- **[Present Continuous]({{ '/tenses/02-present-continuous.html' | relative_url }})** - Actions happening now
+- **[Present Perfect]({{ '/tenses/03-present-perfect.html' | relative_url }})** - Past actions with present relevance
+- **[Present Perfect Continuous]({{ '/tenses/04-present-perfect-continuous.html' | relative_url }})** - Duration continuing to present
 
 #### Past Tenses
-- **[Past Simple](tenses/05-past-simple.md)** - Completed actions in the past
-- **[Past Continuous](tenses/06-past-continuous.md)** - Actions in progress in the past
-- **[Past Perfect](tenses/07-past-perfect.md)** - Actions before another past action
-- **[Past Perfect Continuous](tenses/08-past-perfect-continuous.md)** - Duration up to a past point
+- **[Past Simple]({{ '/tenses/05-past-simple.html' | relative_url }})** - Completed actions in the past
+- **[Past Continuous]({{ '/tenses/06-past-continuous.html' | relative_url }})** - Actions in progress in the past
+- **[Past Perfect]({{ '/tenses/07-past-perfect.html' | relative_url }})** - Actions before another past action
+- **[Past Perfect Continuous]({{ '/tenses/08-past-perfect-continuous.html' | relative_url }})** - Duration up to a past point
 
 #### Future Tenses
-- **[Future Simple (Will)](tenses/09-future-simple-will.md)** - Predictions and spontaneous decisions
-- **[Future Simple (Going to)](tenses/10-future-going-to.md)** - Plans and intentions
-- **[Future Continuous](tenses/11-future-continuous.md)** - Actions in progress at a future time
-- **[Future Perfect](tenses/12-future-perfect.md)** - Actions completed before a future time
-- **[Future Perfect Continuous](tenses/13-future-perfect-continuous.md)** - Duration up to a future point
+- **[Future Simple (Will)]({{ '/tenses/09-future-simple-will.html' | relative_url }})** - Predictions and spontaneous decisions
+- **[Future Simple (Going to)]({{ '/tenses/10-future-going-to.html' | relative_url }})** - Plans and intentions
+- **[Future Continuous]({{ '/tenses/11-future-continuous.html' | relative_url }})** - Actions in progress at a future time
+- **[Future Perfect]({{ '/tenses/12-future-perfect.html' | relative_url }})** - Actions completed before a future time
+- **[Future Perfect Continuous]({{ '/tenses/13-future-perfect-continuous.html' | relative_url }})** - Duration up to a future point
 
 ---
 
-## [🔄 Passive Voice](2-passive-voice.md)
+## [🔄 Passive Voice]({{ '/2-passive-voice.html' | relative_url }})
 
 Learn when and how to use passive voice effectively:
 
@@ -69,7 +67,7 @@ Learn when and how to use passive voice effectively:
 
 ---
 
-## [📝 Irregular Verbs](3-irregular-verbs.md)
+## [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }})
 
 Master **100+ irregular verbs** with our comprehensive table featuring:
 
@@ -87,7 +85,7 @@ Master **100+ irregular verbs** with our comprehensive table featuring:
 
 ---
 
-## [💬 Phrasal Verbs](4-phrasal-verbs.md)
+## [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }})
 
 Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
@@ -104,32 +102,32 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 ---
 
-## [📍 Prepositions](5-prepositions/)
+## [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }})
 
 Master English prepositions with our organized approach:
 
-1. **[Prepositions of Time](prepositions/01-time.md)**
+1. **[Prepositions of Time]({{ '/prepositions/01-time.html' | relative_url }})**
    - at, in, on, before, after, during, for, since, until
 
-2. **[Prepositions of Place](prepositions/02-place.md)**
+2. **[Prepositions of Place]({{ '/prepositions/02-place.html' | relative_url }})**
    - at, in, on, above, below, between, behind, next to
 
-3. **[Prepositions of Movement](prepositions/03-movement-direction.md)**
+3. **[Prepositions of Movement]({{ '/prepositions/03-movement-direction.html' | relative_url }})**
    - to, from, up, down, into, out of, towards
 
-4. **[Common Expressions](prepositions/04-common-expressions.md)**
+4. **[Common Expressions]({{ '/prepositions/04-common-expressions.html' | relative_url }})**
    - Fixed expressions with prepositions
 
-5. **[Adjective + Preposition](prepositions/05-adjective-combinations.md)**
+5. **[Adjective + Preposition]({{ '/prepositions/05-adjective-combinations.html' | relative_url }})**
    - afraid of, good at, interested in
 
-6. **[Verb + Preposition](prepositions/06-verb-combinations.md)**
+6. **[Verb + Preposition]({{ '/prepositions/06-verb-combinations.html' | relative_url }})**
    - agree with, apply for, believe in
 
-7. **[Common Mistakes](prepositions/07-common-mistakes.md)**
+7. **[Common Mistakes]({{ '/prepositions/07-common-mistakes.html' | relative_url }})**
    - Typical errors and corrections
 
-8. **[Learning Tips](prepositions/08-learning-tips.md)**
+8. **[Learning Tips]({{ '/prepositions/08-learning-tips.html' | relative_url }})**
    - Effective strategies for mastery
 
 ---

@@ -4,9 +4,7 @@ title: Prepositions of Place
 
 # Prepositions of Place
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3e0.png" alt="House icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 

@@ -6,7 +6,7 @@ title: Prepositions (Guide)
 
 <div align="center" markdown="1">
 
-[← Back to Main](../) • [Time](#-time) • [Place](#-place) • [Movement](#-movement) • [Common Expressions](#-common-expressions)
+[← Back to Main]({{ '/' | relative_url }}) • [Time](#-time) • [Place](#-place) • [Movement](#-movement) • [Common Expressions](#-common-expressions)
 
 </div>
 
@@ -20,14 +20,14 @@ Master English prepositions with our comprehensive guide organized by meaning an
 
 | Category | Focus | Common Words |
 |----------|-------|--------------|
-| [⏰ Time](01-time.md) | When something happens | at, in, on, before, after |
-| [📍 Place](02-place.md) | Where something is | at, in, on, above, below |
-| [➡️ Movement](03-movement-direction.md) | Direction and motion | to, from, into, out of |
-| [💬 Expressions](04-common-expressions.md) | Fixed phrases | with, by, for, of |
-| [🔗 Adjective + Prep](05-adjective-combinations.md) | Common pairings | afraid of, good at |
-| [🔄 Verb + Prep](06-verb-combinations.md) | Verb combinations | agree with, apply for |
-| [❌ Mistakes](07-common-mistakes.md) | Errors to avoid | Common confusions |
-| [💡 Tips](08-learning-tips.md) | Learning strategies | Study methods |
+| [⏰ Time](01-time.html) | When something happens | at, in, on, before, after |
+| [📍 Place](02-place.html) | Where something is | at, in, on, above, below |
+| [➡️ Movement](03-movement-direction.html) | Direction and motion | to, from, into, out of |
+| [💬 Expressions](04-common-expressions.html) | Fixed phrases | with, by, for, of |
+| [🔗 Adjective + Prep](05-adjective-combinations.html) | Common pairings | afraid of, good at |
+| [🔄 Verb + Prep](06-verb-combinations.html) | Verb combinations | agree with, apply for |
+| [❌ Mistakes](07-common-mistakes.html) | Errors to avoid | Common confusions |
+| [💡 Tips](08-learning-tips.html) | Learning strategies | Study methods |
 
 </div>
 
@@ -35,7 +35,7 @@ Master English prepositions with our comprehensive guide organized by meaning an
 
 ## ⏰ Time
 
-### [1. Prepositions of Time →](01-time.md)
+### [1. Prepositions of Time →](01-time.html)
 
 Master when to use **at**, **in**, **on**, and other time prepositions:
 
@@ -50,7 +50,7 @@ Master when to use **at**, **in**, **on**, and other time prepositions:
 
 ## 📍 Place
 
-### [2. Prepositions of Place →](02-place.md)
+### [2. Prepositions of Place →](02-place.html)
 
 Learn where things are located with spatial prepositions:
 
@@ -65,7 +65,7 @@ Learn where things are located with spatial prepositions:
 
 ## ➡️ Movement
 
-### [3. Prepositions of Movement/Direction →](03-movement-direction.md)
+### [3. Prepositions of Movement/Direction →](03-movement-direction.html)
 
 Express motion and direction accurately:
 
@@ -80,7 +80,7 @@ Express motion and direction accurately:
 
 ## 💬 Common Expressions
 
-### [4. Fixed Expressions with Prepositions →](04-common-expressions.md)
+### [4. Fixed Expressions with Prepositions →](04-common-expressions.html)
 
 Master common phrases that always use specific prepositions:
 
@@ -94,7 +94,7 @@ Master common phrases that always use specific prepositions:
 
 ## 🔗 Combinations
 
-### [5. Adjective + Preposition →](05-adjective-combinations.md)
+### [5. Adjective + Preposition →](05-adjective-combinations.html)
 
 Learn which prepositions follow common adjectives:
 
@@ -105,7 +105,7 @@ Learn which prepositions follow common adjectives:
 - proud **of** achievements
 - similar **to** something
 
-### [6. Verb + Preposition →](06-verb-combinations.md)
+### [6. Verb + Preposition →](06-verb-combinations.html)
 
 Master verb-preposition combinations:
 
@@ -120,7 +120,7 @@ Master verb-preposition combinations:
 
 ## ❌ Common Mistakes
 
-### [7. Typical Errors and Corrections →](07-common-mistakes.md)
+### [7. Typical Errors and Corrections →](07-common-mistakes.html)
 
 Avoid these frequent preposition mistakes:
 
@@ -134,7 +134,7 @@ Avoid these frequent preposition mistakes:
 
 ## 💡 Learning Tips
 
-### [8. Strategies for Mastering Prepositions →](08-learning-tips.md)
+### [8. Strategies for Mastering Prepositions →](08-learning-tips.html)
 
 Effective methods to learn and remember prepositions:
 

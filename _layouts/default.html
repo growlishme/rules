@@ -22,8 +22,8 @@
 <body>
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
-    <label for="sidebar-toggle" class="sidebar-toggle-button">☰ Menu</label>
-    <div class="sidebar-overlay"></div>
+    <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
+    <label for="sidebar-toggle" class="sidebar-overlay"></label>
     {% include sidebar.html %}
     <main>
       {{ content }}

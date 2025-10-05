@@ -17,15 +17,6 @@
     overflow: auto;
 }
 
-.sidebar-title {
-    font-weight: 700;
-    margin-bottom: 8px;
-    font-size: 14px;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    color: #374151;
-}
-
 .sidebar-subtitle {
     font-weight: 600;
     margin: 12px 0 6px;
@@ -142,15 +133,17 @@ main pre {
     .sidebar-toggle-button {
         display: inline-flex;
         align-items: center;
-        gap: 8px;
-        padding: 10px 12px;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
         margin: 8px;
         background: #111827;
         color: #fff;
-        border-radius: 8px;
-        font-weight: 600;
-        width: max-content;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 18px;
         user-select: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
 
     .sidebar-toggle {
@@ -199,6 +192,7 @@ main td {
     border: 1px solid #e5e7eb;
     padding: 8px 10px;
     vertical-align: top;
+    word-break: break-word;
 }
 
 main th {
@@ -208,6 +202,22 @@ main th {
 
 main tr:nth-child(even) td {
     background: #fcfcfd;
+}
+
+/* Improve table usability on small screens */
+@media (max-width: 700px) {
+    main table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        border-collapse: separate;
+    }
+
+    main th,
+    main td {
+        min-width: 120px;
+    }
 }
 
 /* Headings */

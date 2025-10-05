@@ -4,9 +4,7 @@ title: Prepositions of Time
 
 # Prepositions of Time
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f0.png" alt="Alarm clock icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 

@@ -4,9 +4,7 @@ title: Tips for Learning Prepositions
 
 # Tips for Learning Prepositions
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d2.png" alt="Ledger icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 
@@ -15,7 +13,6 @@ title: Tips for Learning Prepositions
 </div>
 
 ---
-
 
 1. **Learn in context**: Always learn prepositions with example sentences
 2. **Study common combinations**: Memorize verb + preposition and adjective + preposition combinations

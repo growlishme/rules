@@ -4,13 +4,11 @@ title: Present Simple
 
 # Present Simple
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c5.png" alt="Calendar icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 
-[← Back to Tenses](./) • [← Previous](./README.md) • [Next →](02-present-continuous.md)
+[← Back to Tenses](./) • [Next →](02-present-continuous.md)
 
 </div>
 

@@ -4,9 +4,7 @@ title: Prepositions of Movement/Direction
 
 # Prepositions of Movement/Direction
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/27a1.png" alt="Right arrow icon" width="64">
-</div>
+
 
 <div align="center" markdown="1">
 

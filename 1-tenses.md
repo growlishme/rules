@@ -4,9 +4,7 @@ title: English Tenses (Overview)
 
 # 📖 English Tenses
 
-<div align="center" markdown="1">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" alt="Open book icon" width="64">
-</div>
+
 
 [← Back to Main](./README.md)
 
@@ -16,25 +14,25 @@ Complete guide to all 13 English tenses. Each tense has been split into its own 
 
 ## Present Tenses
 
-1. **[Present Simple](tenses/01-present-simple.md)** - Habits, routines, and general truths
-2. **[Present Continuous](tenses/02-present-continuous.md)** - Actions happening now
-3. **[Present Perfect](tenses/03-present-perfect.md)** - Past actions with present relevance
-4. **[Present Perfect Continuous](tenses/04-present-perfect-continuous.md)** - Duration of actions continuing to present
+1. **[Present Simple]({{ '/tenses/01-present-simple.html' | relative_url }})** - Habits, routines, and general truths
+2. **[Present Continuous]({{ '/tenses/02-present-continuous.html' | relative_url }})** - Actions happening now
+3. **[Present Perfect]({{ '/tenses/03-present-perfect.html' | relative_url }})** - Past actions with present relevance
+4. **[Present Perfect Continuous]({{ '/tenses/04-present-perfect-continuous.html' | relative_url }})** - Duration of actions continuing to present
 
 ## Past Tenses
 
-5. **[Past Simple](tenses/05-past-simple.md)** - Completed actions in the past
-6. **[Past Continuous](tenses/06-past-continuous.md)** - Actions in progress in the past
-7. **[Past Perfect](tenses/07-past-perfect.md)** - Actions completed before another past action
-8. **[Past Perfect Continuous](tenses/08-past-perfect-continuous.md)** - Duration up to a past point
+5. **[Past Simple]({{ '/tenses/05-past-simple.html' | relative_url }})** - Completed actions in the past
+6. **[Past Continuous]({{ '/tenses/06-past-continuous.html' | relative_url }})** - Actions in progress in the past
+7. **[Past Perfect]({{ '/tenses/07-past-perfect.html' | relative_url }})** - Actions completed before another past action
+8. **[Past Perfect Continuous]({{ '/tenses/08-past-perfect-continuous.html' | relative_url }})** - Duration up to a past point
 
 ## Future Tenses
 
-9. **[Future Simple (Will)](tenses/09-future-simple-will.md)** - Predictions, promises, spontaneous decisions
-10. **[Future Simple (Going to)](tenses/10-future-going-to.md)** - Plans and intentions
-11. **[Future Continuous](tenses/11-future-continuous.md)** - Actions in progress at a future time
-12. **[Future Perfect](tenses/12-future-perfect.md)** - Actions completed before a future time
-13. **[Future Perfect Continuous](tenses/13-future-perfect-continuous.md)** - Duration up to a future point
+9. **[Future Simple (Will)]({{ '/tenses/09-future-simple-will.html' | relative_url }})** - Predictions, promises, spontaneous decisions
+10. **[Future Simple (Going to)]({{ '/tenses/10-future-going-to.html' | relative_url }})** - Plans and intentions
+11. **[Future Continuous]({{ '/tenses/11-future-continuous.html' | relative_url }})** - Actions in progress at a future time
+12. **[Future Perfect]({{ '/tenses/12-future-perfect.html' | relative_url }})** - Actions completed before a future time
+13. **[Future Perfect Continuous]({{ '/tenses/13-future-perfect-continuous.html' | relative_url }})** - Duration up to a future point
 
 ---
 
@@ -55,4 +53,4 @@ Each tense file includes:
 4. Practice by creating your own example sentences
 5. Pay attention to time expressions that signal which tense to use
 
-For more details, see the [tenses folder](tenses/README.md).
+For more details, see the [tenses folder]({{ '/tenses/' | relative_url }}).
