@@ -193,12 +193,10 @@ main pre {
     overflow: auto;
 }
 
-/* Tables */
-main table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 16px 0;
-    font-size: 14px;
+main ul,
+main ol {
+    list-style-type: disc;
+    margin-left: 16px;
 }
 
 main th,
