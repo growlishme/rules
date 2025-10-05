@@ -13,7 +13,7 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 <div align="center">
 
-[📖 Tenses]({{ '/tenses/' | relative_url }}) • [🔄 Passive Voice]({{ '/2-passive-voice' | relative_url }}) • [📝 Irregular Verbs]({{ '/3-irregular-verbs' | relative_url }}) • [💬 Phrasal Verbs]({{ '/4-phrasal-verbs' | relative_url }}) • [📍 Prepositions]({{ '/prepositions/' | relative_url }})
+[📖 Tenses](tenses/) • [🔄 Passive Voice](2-passive-voice.md) • [📝 Irregular Verbs](3-irregular-verbs.md) • [💬 Phrasal Verbs](4-phrasal-verbs.md) • [📍 Prepositions](prepositions/)
 
 </div>
 
@@ -192,17 +192,6 @@ Master English prepositions with our organized approach:
 - 💡 **Practical examples** for real-world usage
 - 🎯 **Progressive difficulty** from basic to advanced
 - 📱 **Mobile-friendly** formatting
-
----
-
-## 🤝 Contributing
-
-Found an error or have a suggestion? We welcome contributions! This is a living document designed to help English learners worldwide.
-
-- 🐛 Report issues
-- 💡 Suggest improvements
-- ➕ Add new examples
-- 🌍 Add translations
 
 ---
 
