@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
 title: English Grammar Rules
 description: A comprehensive collection of English grammar rules, irregular verbs, phrasal verbs, and prepositions with examples and translations.
 baseurl: "/rules" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://growlishme.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

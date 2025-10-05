@@ -1,4 +1,6 @@
 ---
+title: English Grammar Rules
+permalink: /
 ---
 
 # 📚 English Grammar Rules
