@@ -27,7 +27,6 @@ Master English prepositions with our comprehensive guide organized by meaning an
 | [🔗 Adjective + Prep](05-adjective-combinations.html) | Common pairings | afraid of, good at |
 | [🔄 Verb + Prep](06-verb-combinations.html) | Verb combinations | agree with, apply for |
 | [❌ Mistakes](07-common-mistakes.html) | Errors to avoid | Common confusions |
-| [💡 Tips](08-learning-tips.html) | Learning strategies | Study methods |
 
 </div>
 
@@ -129,59 +128,6 @@ Avoid these frequent preposition mistakes:
 3. ❌ *arrive to home* → ✅ **arrive home**
 4. ❌ *married with* → ✅ **married to**
 5. ❌ *different than* → ✅ **different from**
-
----
-
-## 💡 Learning Tips
-
-### [8. Strategies for Mastering Prepositions →](08-learning-tips.html)
-
-Effective methods to learn and remember prepositions:
-
-1. **📊 Visual Learning**: Create mind maps and diagrams
-2. **🎯 Context Practice**: Learn prepositions in phrases, not isolation
-3. **📚 Reading**: Notice preposition usage in authentic texts
-4. **✍️ Writing**: Keep a preposition journal
-5. **🗣️ Speaking**: Practice with native patterns
-
----
-
-## 🎯 Quick Reference Chart
-
-<div align="center" markdown="1">
-
-| | AT | IN | ON |
-|---|----|----|-----|
-| **TIME** | specific times | months, years, centuries | days, dates |
-| **PLACE** | points | enclosed spaces | surfaces |
-| **Examples** | at 5 PM, at home | in January, in the box | on Monday, on the table |
-
-</div>
-
----
-
-## 📝 Practice Exercise
-
-Fill in the correct preposition:
-
-1. I'll see you ___ Monday ___ 3 o'clock.
-2. She lives ___ London ___ Baker Street.
-3. We're going ___ vacation ___ July.
-4. The book is ___ the table ___ the living room.
-5. He's been waiting ___ the bus stop ___ 20 minutes.
-
-**Answers**: 1. on/at, 2. in/on, 3. on/in, 4. on/in, 5. at/for
-
----
-
-## 🌟 Remember
-
-Prepositions are one of the trickiest parts of English because:
-- They often don't translate directly between languages
-- Many are used idiomatically
-- The same preposition can have multiple meanings
-
-**The key to mastery**: Regular practice and exposure to authentic English!
 
 ---
 

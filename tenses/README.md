@@ -122,54 +122,6 @@ Continuous:    doing     |   doing     |     doing
 
 ---
 
-## 💡 Learning Strategy
-
-### 🎯 Recommended Learning Path:
-
-1. **Week 1-2**: Master the Simple tenses (Present, Past, Future)
-2. **Week 3-4**: Learn the Continuous tenses
-3. **Week 5-6**: Study the Perfect tenses
-4. **Week 7-8**: Combine with Perfect Continuous tenses
-
-### ✅ Tips for Success:
-
-- 📝 **Create examples**: Write 5 sentences for each tense you study
-- 🔄 **Compare tenses**: Understand the differences between similar tenses
-- ⏰ **Focus on time markers**: Learn which time expressions go with each tense
-- 💬 **Practice speaking**: Use the tenses in conversation
-- 📚 **Read actively**: Notice tenses in books and articles
-
----
-
-## 📋 What Each Tense Guide Contains
-
-Every individual tense file includes:
-
-1. **📖 Description** - Clear explanation of what the tense expresses
-2. **🎯 Usage Rules** - When and why to use this tense
-3. **🔧 Formation** - How to construct:
-   - ✅ Affirmative sentences
-   - ❌ Negative sentences
-   - ❓ Questions
-4. **💡 Examples** - Multiple practical examples with context
-5. **⏰ Time Expressions** - Common time markers for the tense
-6. **⚠️ Common Mistakes** - What to avoid
-7. **🔄 Comparison** - How it differs from similar tenses
-
----
-
-## 🎓 Quick Test Yourself
-
-Can you identify which tense to use?
-
-1. "I _____ (work) here since 2019" → Present Perfect
-2. "She _____ (sleep) when the phone rang" → Past Continuous
-3. "By tomorrow, I _____ (finish) the project" → Future Perfect
-4. "They _____ (travel) to Japan next month" → Present Continuous/Going to
-5. "The Earth _____ (revolve) around the Sun" → Present Simple
-
----
-
 <div align="center" markdown="1">
 
 ### 📚 Ready to Start Learning?

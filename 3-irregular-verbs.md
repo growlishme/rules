@@ -8,7 +8,7 @@ title: Irregular Verbs
 
 <div align="center" markdown="1">
 
-[← Back to Main]({{ '/' | relative_url }}) • [Common Verbs](#common-irregular-verbs-with-translations) • [Patterns](#patterns-in-irregular-verbs) • [Tips](#tips-for-learning-irregular-verbs)
+[← Back to Main]({{ '/' | relative_url }}) • [Common Verbs](#common-irregular-verbs-with-translations) • [Patterns](#patterns-in-irregular-verbs)
 
 </div>
 

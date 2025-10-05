@@ -48,13 +48,6 @@ Master all English tenses with our structured approach:
 
 Learn when and how to use passive voice effectively:
 
-- ✅ Formation rules for all tenses
-- 📋 Passive with two objects
-- 📰 Passive with reporting verbs
-- 🔗 Passive with phrasal verbs
-- ⚡ Passive infinitives and gerunds
-- ❌ Common mistakes to avoid
-
 **Example**: *The book was written by Shakespeare* (Passive) vs *Shakespeare wrote the book* (Active)
 
 ---
@@ -62,13 +55,6 @@ Learn when and how to use passive voice effectively:
 ## 📝 [Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }})
 
 Master **100+ irregular verbs** with our comprehensive table featuring:
-
-- 🔤 Base form, past simple, and past participle
-- 🔊 IPA pronunciation for each form
-- 🇷🇺 Russian translations
-- 📊 Organized by patterns (A-A-A, A-B-B, A-B-C)
-- ⭐ Most common verbs highlighted
-- 💡 Example sentences for context
 
 **Quick Preview**:
 - **be** → was/were → been
@@ -80,12 +66,6 @@ Master **100+ irregular verbs** with our comprehensive table featuring:
 ## 💬 [Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }})
 
 Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
-
-- 📖 Clear meanings and translations
-- 🎯 Real-world example sentences
-- ➗ Separable vs. inseparable indicators
-- 🏷️ Organized by verb for easy lookup
-- 💡 Learning tips and strategies
 
 **Examples**:
 - **look up** = search for information
@@ -118,9 +98,6 @@ Master English prepositions with our organized approach:
 
 7. **[Common Mistakes]({{ '/prepositions/07-common-mistakes.html' | relative_url }})**
    - Typical errors and corrections
-
-8. **[Learning Tips]({{ '/prepositions/08-learning-tips.html' | relative_url }})**
-   - Effective strategies for mastery
 
 ---
 
