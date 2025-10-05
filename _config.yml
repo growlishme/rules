@@ -48,7 +48,7 @@ navigation:
   - title: Home
     url: /
   - title: Tenses
-    url: /tenses/
+    url: /tenses/README
   - title: Passive Voice
     url: /2-passive-voice
   - title: Irregular Verbs
@@ -56,4 +56,4 @@ navigation:
   - title: Phrasal Verbs
     url: /4-phrasal-verbs
   - title: Prepositions
-    url: /prepositions/
+    url: /prepositions/README

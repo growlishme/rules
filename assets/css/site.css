@@ -241,6 +241,7 @@ main tr:nth-child(even) td {
     -webkit-overflow-scrolling: touch;
     border-collapse: separate;
     white-space: nowrap;
+    max-width: calc(100vw - 32px);
 }
 
 .table-responsive table {

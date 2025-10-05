@@ -16,7 +16,7 @@ Master English prepositions with our comprehensive guide organized by meaning an
 
 ## 📚 Quick Navigation
 
-<div align="center" markdown="1">
+<div class="table-responsive" markdown="1">
 
 | Category | Focus | Common Words |
 |----------|-------|--------------|

@@ -21,6 +21,8 @@ Phrasal verbs are combinations of a verb + particle (preposition or adverb) that
 
 ## Common Phrasal Verbs
 
+<div class="table-responsive" markdown="1">
+
 | Phrasal Verb | Meaning / Translation | Example |
 |--------------|----------------------|---------|
 | **add up** | to make sense, seem reasonable / складываться | His story doesn't add up. I don't believe him. |
@@ -163,6 +165,8 @@ Phrasal verbs are combinations of a verb + particle (preposition or adverb) that
 | **watch out** | to be careful / быть осторожным | Watch out for pickpockets! |
 | **wear out** | to become unusable; to exhaust / изнашиваться; изматывать | These shoes have worn out. <br> The long trip wore us out. |
 | **work out** | to exercise; to solve; to succeed / тренироваться; решать; получаться | I work out at the gym three times a week. <br> We worked out the problem. <br> I hope things work out for you. |
+
+</div>
 
 ---
 

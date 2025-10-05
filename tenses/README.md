@@ -16,7 +16,7 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 
 ## 📚 Quick Navigation
 
-<div align="center" markdown="1">
+<div class="table-responsive" markdown="1">
 
 | Present | Past | Future |
 |---------|------|--------|
@@ -104,21 +104,6 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 **Use for**: Duration of actions up to a point in the future
 - *By 5 PM, I will have been working for 8 hours*
 - *Next month, we will have been living here for 10 years*
-
----
-
-## 📊 Tense Timeline Visualization
-
-```
-PAST ←------------------|-------------------→ FUTURE
-                        NOW
-     
-Simple:          did     |  do/does    |  will do
-Continuous:  was doing   | am/is doing | will be doing
-Perfect:     had done    | have done   | will have done
-Perfect      had been    | have been   | will have been
-Continuous:    doing     |   doing     |     doing
-```
 
 ---
 
