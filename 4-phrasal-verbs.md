@@ -10,7 +10,7 @@ title: Phrasal Verbs
 
 <div align="center">
 
-[← Back to Main](./) • [Common Phrasal Verbs](#common-phrasal-verbs) • [Tips](#tips-for-learning-phrasal-verbs)
+[← Back to Main]({{ '/' | relative_url }}) • [Common Phrasal Verbs](#common-phrasal-verbs) • [Tips](#tips-for-learning-phrasal-verbs)
 
 </div>
 

@@ -10,7 +10,7 @@ title: Passive Voice
 
 <div align="center">
 
-[← Back to Main](./) • [Formation](#formation) • [Tenses](#passive-voice-in-different-tenses) • [Special Cases](#special-cases) • [Common Mistakes](#common-mistakes-to-avoid)
+[← Back to Main]({{ '/' | relative_url }}) • [Formation](#formation) • [Tenses](#passive-voice-in-different-tenses) • [Special Cases](#special-cases) • [Common Mistakes](#common-mistakes-to-avoid)
 
 </div>
 

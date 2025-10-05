@@ -13,7 +13,7 @@ Welcome to your comprehensive guide to English grammar! This collection covers e
 
 <div align="center">
 
-[📖 Tenses](#-tenses) • [🔄 Passive Voice](#-passive-voice) • [📝 Irregular Verbs](#-irregular-verbs) • [💬 Phrasal Verbs](#-phrasal-verbs) • [📍 Prepositions](#-prepositions)
+[📖 Tenses]({{ '/tenses/' | relative_url }}) • [🔄 Passive Voice]({{ '/2-passive-voice' | relative_url }}) • [📝 Irregular Verbs]({{ '/3-irregular-verbs' | relative_url }}) • [💬 Phrasal Verbs]({{ '/4-phrasal-verbs' | relative_url }}) • [📍 Prepositions]({{ '/prepositions/' | relative_url }})
 
 </div>
 

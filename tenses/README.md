@@ -6,7 +6,7 @@ title: Tenses
 
 <div align="center">
 
-[← Back to Main](../) • [Present Tenses](#-present-tenses) • [Past Tenses](#-past-tenses) • [Future Tenses](#-future-tenses)
+[← Back to Main]({{ '/' | relative_url }}) • [Present Tenses](#-present-tenses) • [Past Tenses](#-past-tenses) • [Future Tenses](#-future-tenses)
 
 </div>
 

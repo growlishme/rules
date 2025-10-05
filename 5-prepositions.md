@@ -8,7 +8,7 @@ title: Prepositions
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cd.png" alt="Location pin icon" width="64">
 </div>
 
-[← Back to Main](./README.md)
+[← Back to Main]({{ '/' | relative_url }})
 
 ---
 
