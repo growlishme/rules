@@ -214,6 +214,11 @@ main ol {
     margin-left: 16px;
 }
 
+main hr {
+    margin: 16px 0;
+    border: 1px solid #e5e7eb;
+}
+
 main th,
 main td {
     border: 1px solid #e5e7eb;
@@ -231,7 +236,6 @@ main tr:nth-child(even) td {
     background: #fcfcfd;
 }
 
-/* Improve table usability on small screens */
 @media (max-width: 700px) {
     main table {
         display: block;
@@ -247,54 +251,5 @@ main tr:nth-child(even) td {
         min-width: 120px;
         font-size: 14px;
         padding: 6px 8px;
-    }
-
-    /* Special handling for irregular verbs table */
-    .table-responsive table {
-        font-size: 12px;
-    }
-
-    .table-responsive th,
-    .table-responsive td {
-        min-width: 80px;
-        padding: 4px 6px;
-        font-size: 12px;
-    }
-
-    /* Make pronunciation smaller on mobile */
-    .table-responsive td:nth-child(2),
-    .table-responsive td:nth-child(4),
-    .table-responsive td:nth-child(6) {
-        font-size: 10px;
-        min-width: 60px;
-    }
-
-    /* Make Russian translation smaller */
-    .table-responsive td:last-child {
-        font-size: 11px;
-        min-width: 70px;
-    }
-}
-
-/* Extra small screens */
-@media (max-width: 480px) {
-
-    .table-responsive th,
-    .table-responsive td {
-        min-width: 60px;
-        padding: 3px 4px;
-        font-size: 11px;
-    }
-
-    .table-responsive td:nth-child(2),
-    .table-responsive td:nth-child(4),
-    .table-responsive td:nth-child(6) {
-        font-size: 9px;
-        min-width: 50px;
-    }
-
-    .table-responsive td:last-child {
-        font-size: 10px;
-        min-width: 60px;
     }
 }

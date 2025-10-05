@@ -18,8 +18,6 @@ Master English prepositions with our comprehensive guide organized by meaning an
 
 <div align="center" markdown="1">
 
-<div class="table-responsive">
-
 | Category | Focus | Common Words |
 |----------|-------|--------------|
 | [⏰ Time](01-time.html) | When something happens | at, in, on, before, after |
@@ -30,8 +28,6 @@ Master English prepositions with our comprehensive guide organized by meaning an
 | [🔄 Verb + Prep](06-verb-combinations.html) | Verb combinations | agree with, apply for |
 | [❌ Mistakes](07-common-mistakes.html) | Errors to avoid | Common confusions |
 | [💡 Tips](08-learning-tips.html) | Learning strategies | Study methods |
-
-</div>
 
 </div>
 
@@ -154,15 +150,11 @@ Effective methods to learn and remember prepositions:
 
 <div align="center" markdown="1">
 
-<div class="table-responsive">
-
 | | AT | IN | ON |
 |---|----|----|-----|
 | **TIME** | specific times | months, years, centuries | days, dates |
 | **PLACE** | points | enclosed spaces | surfaces |
 | **Examples** | at 5 PM, at home | in January, in the box | on Monday, on the table |
-
-</div>
 
 </div>
 

@@ -11,8 +11,6 @@ permalink: /
 
 <div align="center" markdown="1">
 
-<div class="table-responsive">
-
 | Section | Description |
 |---------|-------------|
 | [📖 Tenses]({{ '/1-tenses.html' | relative_url }}) | All 13 English tenses |
@@ -20,8 +18,6 @@ permalink: /
 | [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }}) | 100+ verbs with patterns |
 | [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }}) | 140+ common phrasal verbs |
 | [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }}) | Time, place, movement |
-
-</div>
 
 </div>
 

@@ -22,12 +22,9 @@ This list contains the most commonly used irregular verbs in English with their 
 
 [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [K](#k) • [L](#l) • [M](#m) • [P](#p) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [W](#w)
 
-<div class="table-responsive" markdown="1">
-
 | Base Form |  | Past Simple |  | Past Participle |  | RU |
 |-----------|---------------|-------------|---------------|-----------------|---------------|------------------|
-| <a id="b">B</a> | | | | | | |
-| **be** | /biː/ | was / were | /wɒz/ / /wɜː/ | been | /biːn/ | быть |
+| **<a id="b">be</a>** | /biː/ | was / were | /wɒz/ / /wɜː/ | been | /biːn/ | быть |
 | **beat** | /biːt/ | beat | /biːt/ | beaten | /ˈbiːtən/ | бить |
 | **become** | /bɪˈkʌm/ | became | /bɪˈkeɪm/ | become | /bɪˈkʌm/ | становиться |
 | **begin** | /bɪˈɡɪn/ | began | /bɪˈɡæn/ | begun | /bɪˈɡʌn/ | начинать |
@@ -40,23 +37,20 @@ This list contains the most commonly used irregular verbs in English with their 
 | **build** | /bɪld/ | built | /bɪlt/ | built | /bɪlt/ | строить |
 | **burn** | /bɜːn/ | burnt/burned | /bɜːnt/ / /bɜːnd/ | burnt/burned | /bɜːnt/ / /bɜːnd/ | гореть, жечь |
 | **buy** | /baɪ/ | bought | /bɔːt/ | bought | /bɔːt/ | покупать |
-| <a id="c">C</a> | | | | | | |
-| **catch** | /kætʃ/ | caught | /kɔːt/ | caught | /kɔːt/ | ловить |
+| **<a id="c">catch</a>** | /kætʃ/ | caught | /kɔːt/ | caught | /kɔːt/ | ловить |
 | **choose** | /tʃuːz/ | chose | /tʃəʊz/ | chosen | /ˈtʃəʊzən/ | выбирать |
 | **come** | /kʌm/ | came | /keɪm/ | come | /kʌm/ | приходить |
 | **cost** | /kɒst/ | cost | /kɒst/ | cost | /kɒst/ | стоить |
 | **cut** | /kʌt/ | cut | /kʌt/ | cut | /kʌt/ | резать |
-| <a id="d">D</a> | | | | | | |
-| **deal** | /diːl/ | dealt | /delt/ | dealt | /delt/ | иметь дело |
+| **<a id="d">deal</a>** | /diːl/ | dealt | /delt/ | dealt | /delt/ | иметь дело |
 | **dig** | /dɪɡ/ | dug | /dʌɡ/ | dug | /dʌɡ/ | копать |
 | **do** | /duː/ | did | /dɪd/ | done | /dʌn/ | делать |
 | **draw** | /drɔː/ | drew | /druː/ | drawn | /drɔːn/ | рисовать |
 | **drink** | /drɪŋk/ | drank | /dræŋk/ | drunk | /drʌŋk/ | пить |
 | **drive** | /draɪv/ | drove | /drəʊv/ | driven | /ˈdrɪvən/ | водить (машину) |
-| <a id="e">E</a> | | | | | | |
+| **<a id="e">eat</a>** | /iːt/ | ate | /et/ (US) / /eɪt/ (UK) | eaten | /ˈiːtən/ | есть |
 | **eat** | /iːt/ | ate | /et/ (US) / /eɪt/ (UK) | eaten | /ˈiːtən/ | есть |
-| <a id="f">F</a> | | | | | | |
-| **fall** | /fɔːl/ | fell | /fel/ | fallen | /ˈfɔːlən/ | падать |
+| **<a id="f">fall</a>** | /fɔːl/ | fell | /fel/ | fallen | /ˈfɔːlən/ | падать |
 | **feed** | /fiːd/ | fed | /fed/ | fed | /fed/ | кормить |
 | **feel** | /fiːl/ | felt | /felt/ | felt | /felt/ | чувствовать |
 | **fight** | /faɪt/ | fought | /fɔːt/ | fought | /fɔːt/ | драться |
@@ -65,24 +59,20 @@ This list contains the most commonly used irregular verbs in English with their 
 | **forget** | /fəˈɡet/ | forgot | /fəˈɡɒt/ | forgotten | /fəˈɡɒtən/ | забывать |
 | **forgive** | /fəˈɡɪv/ | forgave | /fəˈɡeɪv/ | forgiven | /fəˈɡɪvən/ | прощать |
 | **freeze** | /friːz/ | froze | /frəʊz/ | frozen | /ˈfrəʊzən/ | замерзать |
-| <a id="g">G</a> | | | | | | |
-| **get** | /ɡet/ | got | /ɡɒt/ | got/gotten | /ɡɒt/ / /ˈɡɒtən/ | получать |
+| **<a id="g">get</a>** | /ɡet/ | got | /ɡɒt/ | got/gotten | /ɡɒt/ / /ˈɡɒtən/ | получать |
 | **give** | /ɡɪv/ | gave | /ɡeɪv/ | given | /ˈɡɪvən/ | давать |
 | **go** | /ɡəʊ/ | went | /went/ | gone | /ɡɒn/ | идти |
 | **grow** | /ɡrəʊ/ | grew | /ɡruː/ | grown | /ɡrəʊn/ | расти |
-| <a id="h">H</a> | | | | | | |
-| **hang** | /hæŋ/ | hung | /hʌŋ/ | hung | /hʌŋ/ | висеть |
+| **<a id="h">hang</a>** | /hæŋ/ | hung | /hʌŋ/ | hung | /hʌŋ/ | висеть |
 | **have** | /hæv/ | had | /hæd/ | had | /hæd/ | иметь |
 | **hear** | /hɪə/ | heard | /hɜːd/ | heard | /hɜːd/ | слышать |
 | **hide** | /haɪd/ | hid | /hɪd/ | hidden | /ˈhɪdən/ | прятать |
 | **hit** | /hɪt/ | hit | /hɪt/ | hit | /hɪt/ | ударять |
 | **hold** | /həʊld/ | held | /held/ | held | /held/ | держать |
 | **hurt** | /hɜːt/ | hurt | /hɜːt/ | hurt | /hɜːt/ | причинять боль |
-| <a id="k">K</a> | | | | | | |
-| **keep** | /kiːp/ | kept | /kept/ | kept | /kept/ | хранить |
+| **<a id="k">keep</a>** | /kiːp/ | kept | /kept/ | kept | /kept/ | хранить |
 | **know** | /nəʊ/ | knew | /njuː/ | known | /nəʊn/ | знать |
-| <a id="l">L</a> | | | | | | |
-| **lay** | /leɪ/ | laid | /leɪd/ | laid | /leɪd/ | класть |
+| **<a id="l">lay</a>** | /leɪ/ | laid | /leɪd/ | laid | /leɪd/ | класть |
 | **lead** | /liːd/ | led | /led/ | led | /led/ | вести |
 | **leave** | /liːv/ | left | /left/ | left | /left/ | покидать |
 | **lend** | /lend/ | lent | /lent/ | lent | /lent/ | одалживать |
@@ -90,21 +80,17 @@ This list contains the most commonly used irregular verbs in English with their 
 | **lie** | /laɪ/ | lay | /leɪ/ | lain | /leɪn/ | лежать |
 | **light** | /laɪt/ | lit/lighted | /lɪt/ / /ˈlaɪtɪd/ | lit/lighted | /lɪt/ / /ˈlaɪtɪd/ | зажигать |
 | **lose** | /luːz/ | lost | /lɒst/ | lost | /lɒst/ | терять |
-| <a id="m">M</a> | | | | | | |
-| **make** | /meɪk/ | made | /meɪd/ | made | /meɪd/ | делать |
+| **<a id="m">make</a>** | /meɪk/ | made | /meɪd/ | made | /meɪd/ | делать |
 | **mean** | /miːn/ | meant | /ment/ | meant | /ment/ | означать |
 | **meet** | /miːt/ | met | /met/ | met | /met/ | встречать |
-| <a id="p">P</a> | | | | | | |
-| **pay** | /peɪ/ | paid | /peɪd/ | paid | /peɪd/ | платить |
+| **<a id="p">pay</a>** | /peɪ/ | paid | /peɪd/ | paid | /peɪd/ | платить |
 | **put** | /pʊt/ | put | /pʊt/ | put | /pʊt/ | класть |
-| <a id="r">R</a> | | | | | | |
-| **read** | /riːd/ | read | /red/ | read | /red/ | читать |
+| **<a id="r">read</a>** | /riːd/ | read | /red/ | read | /red/ | читать |
 | **ride** | /raɪd/ | rode | /rəʊd/ | ridden | /ˈrɪdən/ | ездить верхом |
 | **ring** | /rɪŋ/ | rang | /ræŋ/ | rung | /rʌŋ/ | звонить |
 | **rise** | /raɪz/ | rose | /rəʊz/ | risen | /ˈrɪzən/ | подниматься |
 | **run** | /rʌn/ | ran | /ræn/ | run | /rʌn/ | бегать |
-| <a id="s">S</a> | | | | | | |
-| **say** | /seɪ/ | said | /sed/ | said | /sed/ | говорить |
+| **<a id="s">say</a>** | /seɪ/ | said | /sed/ | said | /sed/ | говорить |
 | **see** | /siː/ | saw | /sɔː/ | seen | /siːn/ | видеть |
 | **seek** | /siːk/ | sought | /sɔːt/ | sought | /sɔːt/ | искать |
 | **sell** | /sel/ | sold | /səʊld/ | sold | /səʊld/ | продавать |
@@ -134,22 +120,17 @@ This list contains the most commonly used irregular verbs in English with their 
 | **sweep** | /swiːp/ | swept | /swept/ | swept | /swept/ | подметать |
 | **swim** | /swɪm/ | swam | /swæm/ | swum | /swʌm/ | плавать |
 | **swing** | /swɪŋ/ | swung | /swʌŋ/ | swung | /swʌŋ/ | качаться |
-| <a id="t">T</a> | | | | | | |
-| **take** | /teɪk/ | took | /tʊk/ | taken | /ˈteɪkən/ | брать |
+| **<a id="t">take</a>** | /teɪk/ | took | /tʊk/ | taken | /ˈteɪkən/ | брать |
 | **teach** | /tiːtʃ/ | taught | /tɔːt/ | taught | /tɔːt/ | учить |
 | **tear** | /teə/ | tore | /tɔː/ | torn | /tɔːn/ | рвать |
 | **tell** | /tel/ | told | /təʊld/ | told | /təʊld/ | рассказывать |
 | **think** | /θɪŋk/ | thought | /θɔːt/ | thought | /θɔːt/ | думать |
 | **throw** | /θrəʊ/ | threw | /θruː/ | thrown | /θrəʊn/ | бросать |
-| <a id="u">U</a> | | | | | | |
-| **understand** | /ˌʌndəˈstænd/ | understood | /ˌʌndəˈstʊd/ | understood | /ˌʌndəˈstʊd/ | понимать |
-| <a id="w">W</a> | | | | | | |
-| **wake** | /weɪk/ | woke | /wəʊk/ | woken | /ˈwəʊkən/ | просыпаться |
+| **<a id="u">understand</a>** | /ˌʌndəˈstænd/ | understood | /ˌʌndəˈstʊd/ | understood | /ˌʌndəˈstʊd/ | понимать |
+| **<a id="w">wake</a>** | /weɪk/ | woke | /wəʊk/ | woken | /ˈwəʊkən/ | просыпаться |
 | **wear** | /weə/ | wore | /wɔː/ | worn | /wɔːn/ | носить (одежду) |
 | **win** | /wɪn/ | won | /wʌn/ | won | /wʌn/ | выигрывать |
 | **write** | /raɪt/ | wrote | /rəʊt/ | written | /ˈrɪtən/ | писать |
-
-</div>
 
 ---
 
