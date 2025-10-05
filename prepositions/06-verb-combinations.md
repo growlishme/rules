@@ -1,5 +1,17 @@
 # Verb + Preposition Combinations
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/270d.png" alt="Writing hand icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [← Previous](05-adjective-combinations.md) • [Next →](07-common-mistakes.md)
+
+</div>
+
+---
+
 
 **agree with** (person) - I agree with you. / Я согласен с тобой.
 
@@ -74,3 +86,9 @@
 **work for** (company) - I work for Microsoft. / Я работаю в Microsoft.
 
 ---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next: Common Mistakes →](07-common-mistakes.md)
+
+</div>

@@ -1,5 +1,17 @@
 # Prepositions of Time
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f0.png" alt="Alarm clock icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next →](02-place.md)
+
+</div>
+
+---
+
 
 ### AT
 **Usage**: specific times, moments, and points in time
@@ -79,3 +91,9 @@
 - from 9 AM to 5 PM / с 9 утра до 5 вечера
 
 ---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next: Prepositions of Place →](02-place.md)
+
+</div>

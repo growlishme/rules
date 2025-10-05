@@ -1,5 +1,17 @@
 # Past Continuous
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f39e.png" alt="Film frames icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](05-past-simple.md) • [Next →](07-past-perfect.md)
+
+</div>
+
+---
+
 ## Description
 Used for actions in progress at a specific time in the past.
 
@@ -20,3 +32,11 @@ Used for actions in progress at a specific time in the past.
 - While they **were playing**, it started to rain.
 - **Were** you **sleeping** when I knocked?
 - He **wasn't listening** to the teacher.
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Past Perfect →](07-past-perfect.md)
+
+</div>

@@ -1,5 +1,17 @@
 # Future Perfect Continuous
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c1.png" alt="Chequered flag icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](12-future-perfect.md) • [Back to Start →](01-present-simple.md)
+
+</div>
+
+---
+
 ## Description
 Used to emphasize the duration of an action up to a point in the future.
 
@@ -16,3 +28,11 @@ Used to emphasize the duration of an action up to a point in the future.
 - By next month, I **will have been working** here for five years.
 - In 2025, they **will have been studying** English for a decade.
 - **Will** you **have been living** here long by then?
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Back to Start →](01-present-simple.md)
+
+</div>

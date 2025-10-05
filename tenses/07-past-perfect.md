@@ -1,5 +1,17 @@
 # Past Perfect
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2714.png" alt="Check mark icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](06-past-continuous.md) • [Next →](08-past-perfect-continuous.md)
+
+</div>
+
+---
+
 ## Description
 Used for actions completed before another past action.
 
@@ -19,3 +31,11 @@ Used for actions completed before another past action.
 - She **had never seen** snow before she moved to Canada.
 - **Had** you **met** him before the party?
 - He **hadn't studied**, so he failed the exam.
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Past Perfect Continuous →](08-past-perfect-continuous.md)
+
+</div>

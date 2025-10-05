@@ -1,5 +1,17 @@
 # Future Simple (Going to)
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c6.png" alt="Tear-off calendar icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](09-future-simple-will.md) • [Next →](11-future-continuous.md)
+
+</div>
+
+---
+
 ## Description
 Used for plans and intentions, and predictions based on evidence.
 
@@ -23,3 +35,11 @@ Used for plans and intentions, and predictions based on evidence.
 - tomorrow, tonight
 - next week/month/year
 - soon
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Future Continuous →](11-future-continuous.md)
+
+</div>

@@ -1,4 +1,16 @@
-# Phrasal Verbs
+# 💬 Phrasal Verbs
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cb.png" alt="Clipboard icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Main](./) • [Common Phrasal Verbs](#common-phrasal-verbs) • [Tips](#tips-for-learning-phrasal-verbs)
+
+</div>
+
+---
 
 ## What are Phrasal Verbs?
 
@@ -184,3 +196,15 @@ The object must come after the particle.
 5. **Keep a notebook**: Write down new phrasal verbs with examples
 6. **Practice regularly**: Review and use them frequently
 7. **Read and listen**: Pay attention to phrasal verbs in authentic materials
+
+---
+
+<div align="center">
+
+### 📚 Keep Learning!
+
+Phrasal verbs are essential for natural English. Practice them regularly and you'll sound more fluent!
+
+[← Back to Main](./) • [↑ Back to Top](#-phrasal-verbs)
+
+</div>

@@ -1,5 +1,17 @@
 # Present Simple
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c5.png" alt="Calendar icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](./README.md) • [Next →](02-present-continuous.md)
+
+</div>
+
+---
+
 ## Description
 Used for habitual actions, general truths, and permanent situations.
 
@@ -26,3 +38,11 @@ Used for habitual actions, general truths, and permanent situations.
 - always, usually, often, sometimes, rarely, never
 - every day/week/month/year
 - on Mondays, at weekends
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Present Continuous →](02-present-continuous.md)
+
+</div>

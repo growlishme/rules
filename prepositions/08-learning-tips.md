@@ -1,5 +1,17 @@
 # Tips for Learning Prepositions
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d2.png" alt="Ledger icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [← Previous](07-common-mistakes.md) • [Back to Start →](01-time.md)
+
+</div>
+
+---
+
 
 1. **Learn in context**: Always learn prepositions with example sentences
 2. **Study common combinations**: Memorize verb + preposition and adjective + preposition combinations
@@ -11,3 +23,11 @@
 8. **Use visual aids**: Draw diagrams to understand spatial prepositions
 9. **Keep a notebook**: Write down new prepositional phrases as you encounter them
 10. **Test yourself**: Try to use prepositions actively in your speaking and writing
+
+---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Back to Start →](01-time.md)
+
+</div>

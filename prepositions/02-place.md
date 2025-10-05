@@ -1,5 +1,17 @@
 # Prepositions of Place
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3e0.png" alt="House icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [← Previous](01-time.md) • [Next →](03-movement-direction.md)
+
+</div>
+
+---
+
 
 ### AT
 **Usage**: specific points and locations
@@ -137,3 +149,9 @@
 - get off the bus / сойти с автобуса
 
 ---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next: Movement/Direction →](03-movement-direction.md)
+
+</div>

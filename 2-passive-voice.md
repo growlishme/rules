@@ -1,4 +1,16 @@
-# Passive Voice
+# 🔄 Passive Voice
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png" alt="Arrows circle icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Main](./) • [Formation](#formation) • [Tenses](#passive-voice-in-different-tenses) • [Special Cases](#special-cases) • [Common Mistakes](#common-mistakes-to-avoid)
+
+</div>
+
+---
 
 ## What is Passive Voice?
 
@@ -145,7 +157,9 @@ The passive voice is used when we want to emphasize the action or the object of 
 
 ---
 
-## Passive Voice with Two Objects
+## Special Cases
+
+### Passive Voice with Two Objects
 
 Some verbs can have two objects (direct and indirect). Either object can become the subject in passive voice.
 
@@ -164,7 +178,7 @@ Some verbs can have two objects (direct and indirect). Either object can become 
 
 ---
 
-## Passive Voice with Reporting Verbs
+### Passive Voice with Reporting Verbs
 
 ### Structure 1: It + passive verb + that clause
 - **It is said that** he is very rich.
@@ -185,7 +199,7 @@ Some verbs can have two objects (direct and indirect). Either object can become 
 
 ---
 
-## Passive Voice with Phrasal Verbs
+### Passive Voice with Phrasal Verbs
 
 The phrasal verb stays together in passive voice.
 
@@ -204,7 +218,7 @@ The phrasal verb stays together in passive voice.
 
 ---
 
-## Passive Infinitives and Gerunds
+### Passive Infinitives and Gerunds
 
 ### Passive Infinitive: to be + past participle
 - I want **to be invited** to the party.
@@ -218,7 +232,7 @@ The phrasal verb stays together in passive voice.
 
 ---
 
-## Get Passive
+### Get Passive
 
 "Get" can be used instead of "be" in informal passive constructions, especially for unexpected or unpleasant events.
 
@@ -278,3 +292,15 @@ The phrasal verb stays together in passive voice.
 - **Active**: The teacher explains the lesson.
   - Object: the lesson
 - **Passive**: The lesson is explained by the teacher.
+
+---
+
+<div align="center">
+
+### 📚 Practice Makes Perfect!
+
+Master the passive voice by practicing with real examples and paying attention to passive constructions in the texts you read.
+
+[← Back to Main](./) • [↑ Back to Top](#-passive-voice)
+
+</div>

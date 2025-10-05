@@ -1,5 +1,17 @@
 # Adjective + Preposition Combinations
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4a1.png" alt="Light bulb icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [← Previous](04-common-expressions.md) • [Next →](06-verb-combinations.md)
+
+</div>
+
+---
+
 
 **afraid of** - He's afraid of spiders. / Он боится пауков.
 
@@ -50,3 +62,9 @@
 **worried about** - Don't worry about it. / Не беспокойся об этом.
 
 ---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next: Verb + Preposition →](06-verb-combinations.md)
+
+</div>

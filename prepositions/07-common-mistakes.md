@@ -1,5 +1,17 @@
 # Common Mistakes with Prepositions
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26a0.png" alt="Warning icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [← Previous](06-verb-combinations.md) • [Next →](08-learning-tips.md)
+
+</div>
+
+---
+
 
 ### AT / IN / ON with Places
 
@@ -38,3 +50,9 @@
 (Use "at" for small places, "in" for cities and countries)
 
 ---
+
+<div align="center">
+
+[← Back to Prepositions](./README.md) • [Next: Learning Tips →](08-learning-tips.md)
+
+</div>

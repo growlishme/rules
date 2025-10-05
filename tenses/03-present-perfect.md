@@ -1,5 +1,17 @@
 # Present Perfect
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4dd.png" alt="Memo icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](02-present-continuous.md) • [Next →](04-present-perfect-continuous.md)
+
+</div>
+
+---
+
 ## Description
 Used to connect past actions with the present.
 
@@ -28,3 +40,11 @@ Used to connect past actions with the present.
 - for, since
 - recently, lately
 - so far, up to now
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Present Perfect Continuous →](04-present-perfect-continuous.md)
+
+</div>

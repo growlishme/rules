@@ -1,0 +1,59 @@
+# GitHub Pages Configuration
+
+# Theme - Using GitHub Pages supported theme
+theme: jekyll-theme-cayman
+# Alternative themes: jekyll-theme-slate, jekyll-theme-minimal, jekyll-theme-primer
+
+# Site settings
+title: English Grammar Rules
+description: A comprehensive collection of English grammar rules, irregular verbs, phrasal verbs, and prepositions with examples and translations.
+baseurl: "/rules" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Tenses
+    url: /tenses/
+  - title: Passive Voice
+    url: /2-passive-voice
+  - title: Irregular Verbs
+    url: /3-irregular-verbs
+  - title: Phrasal Verbs
+    url: /4-phrasal-verbs
+  - title: Prepositions
+    url: /prepositions/

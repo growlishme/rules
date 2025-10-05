@@ -1,0 +1,38 @@
+.layout {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+.sidebar {
+    min-width: 240px;
+    position: sticky;
+    top: 16px;
+    padding: 16px;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #fafafa;
+}
+
+.sidebar-title {
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.sidebar-subtitle {
+    font-weight: 600;
+    margin: 12px 0 6px;
+    font-size: 14px;
+}
+
+.sidebar-nav a,
+.sidebar-subnav a {
+    display: block;
+    margin: 6px 0;
+    text-decoration: none;
+}
+
+main {
+    flex: 1;
+    min-width: 0;
+}

@@ -1,5 +1,17 @@
 # Past Perfect Continuous
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c3.png" alt="Running person icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](07-past-perfect.md) • [Next →](09-future-simple-will.md)
+
+</div>
+
+---
+
 ## Description
 Used to emphasize the duration of an action up to a point in the past.
 
@@ -17,3 +29,11 @@ Used to emphasize the duration of an action up to a point in the past.
 - She **had been waiting** for an hour when the bus finally arrived.
 - They were tired because they **had been running**.
 - **Had** you **been studying** long before the test?
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Future Simple (Will) →](09-future-simple-will.md)
+
+</div>

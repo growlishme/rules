@@ -1,4 +1,12 @@
-# Prepositions
+# 📍 Prepositions
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4cd.png" alt="Location pin icon" width="64">
+</div>
+
+[← Back to Main](./README.md)
+
+---
 
 Complete guide to English prepositions organized by meaning and usage. Each category has been split into its own file for easier reference and learning.
 

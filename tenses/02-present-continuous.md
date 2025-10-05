@@ -1,5 +1,17 @@
 # Present Continuous
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/23f3.png" alt="Hourglass icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](01-present-simple.md) • [Next →](03-present-perfect.md)
+
+</div>
+
+---
+
 ## Description
 Used for actions happening now or around the present time.
 
@@ -26,3 +38,11 @@ Used for actions happening now or around the present time.
 - now, right now, at the moment
 - today, this week/month/year
 - currently, presently
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Present Perfect →](03-present-perfect.md)
+
+</div>

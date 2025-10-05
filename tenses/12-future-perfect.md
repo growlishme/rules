@@ -1,5 +1,17 @@
 # Future Perfect
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2705.png" alt="Green check icon" width="64">
+</div>
+
+<div align="center">
+
+[← Back to Tenses](./) • [← Previous](11-future-continuous.md) • [Next →](13-future-perfect-continuous.md)
+
+</div>
+
+---
+
 ## Description
 Used for actions that will be completed before a specific time in the future.
 
@@ -17,3 +29,11 @@ Used for actions that will be completed before a specific time in the future.
 - By 2030, she **will have lived** here for 20 years.
 - **Will** you **have completed** the course by then?
 - They **won't have arrived** by dinner time.
+
+---
+
+<div align="center">
+
+[← Back to Tenses](./) • [Next: Future Perfect Continuous →](13-future-perfect-continuous.md)
+
+</div>
