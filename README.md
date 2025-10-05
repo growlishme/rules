@@ -17,6 +17,8 @@ Complete guide to all English tenses with:
 - Past Simple, Past Continuous, Past Perfect, Past Perfect Continuous
 - Future Simple (will & going to), Future Continuous, Future Perfect, Future Perfect Continuous
 
+**📁 Organized Structure:** Each tense is now in its own file in the [`tenses/`](tenses/) folder for easy reference!
+
 ---
 
 ### [2. Passive Voice](2-passive-voice.md)
@@ -33,14 +35,13 @@ Comprehensive guide to passive voice including:
 
 ### [3. Irregular Verbs](3-irregular-verbs.md)
 Complete list of irregular verbs with:
-- Base form, past simple, and past participle
+- Base form, past simple, and past participle with **pronunciation in brackets**
 - Russian translations
-- Pronunciation guide
 - Patterns in irregular verbs (A-A-A, A-B-B, A-B-C)
 - Most common irregular verbs
 - Example sentences
 
-**100+ irregular verbs** organized by pattern and frequency.
+**100+ irregular verbs** organized by pattern and frequency with IPA pronunciation for each form.
 
 ---
 
@@ -52,7 +53,7 @@ Extensive collection of phrasal verbs with:
 - Separable vs. inseparable phrasal verbs
 - Tips for learning
 
-**150+ common phrasal verbs** organized alphabetically (A-Z).
+**📊 Table Format:** 140+ common phrasal verbs organized in an easy-to-read table with meanings and examples.
 
 ---
 
@@ -66,6 +67,8 @@ Complete guide to English prepositions:
 - Verb + preposition combinations
 - Common mistakes to avoid
 - Tips for learning prepositions
+
+**📁 Organized by Meaning:** Split into 8 focused files in the [`prepositions/`](prepositions/) folder (time, place, movement, expressions, combinations, mistakes, and tips).
 
 ---
 
