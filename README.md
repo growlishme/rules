@@ -31,9 +31,6 @@ Choose your learning path based on your needs:
 
 ## 📖 Tenses
 
-<details>
-<summary><strong>Click to explore all 13 English tenses</strong></summary>
-
 ### [Complete Tenses Guide →](tenses/)
 
 Master all English tenses with our structured approach:
@@ -56,8 +53,6 @@ Master all English tenses with our structured approach:
 - **[Future Continuous](tenses/11-future-continuous.md)** - Actions in progress at a future time
 - **[Future Perfect](tenses/12-future-perfect.md)** - Actions completed before a future time
 - **[Future Perfect Continuous](tenses/13-future-perfect-continuous.md)** - Duration up to a future point
-
-</details>
 
 ---
 
@@ -123,9 +118,6 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 Master English prepositions with our organized approach:
 
-<details>
-<summary><strong>Click to see all preposition categories</strong></summary>
-
 1. **[Prepositions of Time](prepositions/01-time.md)**
    - at, in, on, before, after, during, for, since, until
 
@@ -149,8 +141,6 @@ Master English prepositions with our organized approach:
 
 8. **[Learning Tips](prepositions/08-learning-tips.md)**
    - Effective strategies for mastery
-
-</details>
 
 ---
 
