@@ -133,10 +133,6 @@ Avoid these frequent preposition mistakes:
 
 <div align="center" markdown="1">
 
-### 📚 Ready to Start?
-
-Begin with [Prepositions of Time](01-time.md) or choose any topic from the navigation above!
-
 [← Back to Main](../) • [↑ Back to Top](#-english-prepositions)
 
 </div>

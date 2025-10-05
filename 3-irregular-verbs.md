@@ -254,10 +254,6 @@ These 25 irregular verbs account for the majority of irregular verb usage in Eng
 
 <div align="center" markdown="1">
 
-### 📚 Master Irregular Verbs!
-
-Regular practice with these verbs will make your English more natural and fluent.
-
 [← Back to Main](./) • [↑ Back to Top](#-irregular-verbs)
 
 </div>

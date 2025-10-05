@@ -194,10 +194,6 @@ The object must come after the particle.
 
 <div align="center" markdown="1">
 
-### 📚 Keep Learning!
-
-Phrasal verbs are essential for natural English. Practice them regularly and you'll sound more fluent!
-
 [← Back to Main](./) • [↑ Back to Top](#-phrasal-verbs)
 
 </div>

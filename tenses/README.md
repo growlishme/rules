@@ -109,10 +109,6 @@ Welcome to the comprehensive guide to all 13 English tenses! Each tense is expla
 
 <div align="center" markdown="1">
 
-### 📚 Ready to Start Learning?
-
-Choose a tense from the navigation above or start with [Present Simple](01-present-simple.html)!
-
 [← Back to Main](../) • [↑ Back to Top](#-english-tenses)
 
 </div>

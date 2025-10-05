@@ -282,26 +282,7 @@ The phrasal verb stays together in passive voice.
 
 ---
 
-## Practice Patterns
-
-### Converting Active to Passive:
-1. Identify the object in the active sentence
-2. Make the object the subject of the passive sentence
-3. Use the appropriate form of "be" + past participle
-4. Add "by + agent" if necessary
-
-**Example transformation**:
-- **Active**: The teacher explains the lesson.
-  - Object: the lesson
-- **Passive**: The lesson is explained by the teacher.
-
----
-
 <div align="center" markdown="1">
-
-### 📚 Practice Makes Perfect!
-
-Master the passive voice by practicing with real examples and paying attention to passive constructions in the texts you read.
 
 [← Back to Main](./) • [↑ Back to Top](#-passive-voice)
 
