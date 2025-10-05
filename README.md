@@ -9,21 +9,17 @@ permalink: /
 
 ## 🚀 Quick Links
 
-<div align="center" markdown="1">
-
 | Section | Description |
 |---------|-------------|
-| [📖 Tenses]({{ '/1-tenses.html' | relative_url }}) | All 13 English tenses |
+| [📖 Tenses]({{ '/tenses/' | relative_url }}) | All 13 English tenses |
 | [🔄 Passive Voice]({{ '/2-passive-voice.html' | relative_url }}) | Active vs. Passive forms |
 | [📝 Irregular Verbs]({{ '/3-irregular-verbs.html' | relative_url }}) | 100+ verbs with patterns |
 | [💬 Phrasal Verbs]({{ '/4-phrasal-verbs.html' | relative_url }}) | 140+ common phrasal verbs |
-| [📍 Prepositions]({{ '/5-prepositions.html' | relative_url }}) | Time, place, movement |
-
-</div>
+| [📍 Prepositions]({{ '/prepositions/' | relative_url }}) | Time, place, movement |
 
 ---
 
-## 📖 [Tenses]({{ '/1-tenses.html' | relative_url }})
+## 📖 [Tenses]({{ '/tenses/' | relative_url }})
 
 Master all English tenses with our structured approach:
 
@@ -98,7 +94,7 @@ Discover **140+ essential phrasal verbs** organized in an easy-to-use table:
 
 ---
 
-## 📍 [Prepositions]({{ '/5-prepositions.html' | relative_url }})
+## 📍 [Prepositions]({{ '/prepositions/' | relative_url }})
 
 Master English prepositions with our organized approach:
 

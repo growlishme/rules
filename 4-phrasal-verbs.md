@@ -189,18 +189,6 @@ The object must come after the particle.
 
 ---
 
-## Tips for Learning Phrasal Verbs
-
-1. **Learn in context**: Always learn phrasal verbs in example sentences
-2. **Group by theme**: Learn related phrasal verbs together (e.g., all "get" phrasal verbs)
-3. **Note separability**: Remember which ones can be separated
-4. **Use them actively**: Try to use new phrasal verbs in conversation
-5. **Keep a notebook**: Write down new phrasal verbs with examples
-6. **Practice regularly**: Review and use them frequently
-7. **Read and listen**: Pay attention to phrasal verbs in authentic materials
-
----
-
 <div align="center" markdown="1">
 
 ### 📚 Keep Learning!

@@ -22,6 +22,9 @@ This list contains the most commonly used irregular verbs in English with their 
 
 [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [K](#k) • [L](#l) • [M](#m) • [P](#p) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [W](#w)
 
+
+<div class="table-responsive" markdown="1">
+
 | Base Form |  | Past Simple |  | Past Participle |  | RU |
 |-----------|---------------|-------------|---------------|-----------------|---------------|------------------|
 | **<a id="b">be</a>** | /biː/ | was / were | /wɒz/ / /wɜː/ | been | /biːn/ | быть |
@@ -132,6 +135,8 @@ This list contains the most commonly used irregular verbs in English with their 
 | **win** | /wɪn/ | won | /wʌn/ | won | /wʌn/ | выигрывать |
 | **write** | /raɪt/ | wrote | /rəʊt/ | written | /ˈrɪtən/ | писать |
 
+</div>
+
 ---
 
 ## Patterns in Irregular Verbs
@@ -215,18 +220,6 @@ This list contains the most commonly used irregular verbs in English with their 
 
 ---
 
-## Tips for Learning Irregular Verbs
-
-1. **Group by pattern**: Learn verbs with similar patterns together
-2. **Use in context**: Create sentences using the verbs
-3. **Practice regularly**: Review a few verbs each day
-4. **Focus on common verbs first**: The most frequent verbs appear in 90% of usage
-5. **Make flashcards**: Write the three forms on cards
-6. **Read and listen**: Notice irregular verbs in authentic texts and speech
-7. **Test yourself**: Cover columns and try to recall the forms
-
----
-
 ## Most Common Irregular Verbs
 
 These 25 irregular verbs account for the majority of irregular verb usage in English:
@@ -256,30 +249,6 @@ These 25 irregular verbs account for the majority of irregular verb usage in Eng
 23. keep - kept - kept
 24. hold - held - held
 25. write - wrote - written
-
----
-
-## Example Sentences
-
-**Past Simple:**
-- I **went** to the store yesterday.
-- She **ate** dinner at 7 PM.
-- They **saw** a movie last night.
-
-**Past Participle (Present Perfect):**
-- I have **been** to Paris.
-- She has **eaten** sushi before.
-- They have **seen** that movie.
-
-**Past Participle (Past Perfect):**
-- I had **gone** before they arrived.
-- She had **eaten** by the time we got there.
-- They had **seen** it already.
-
-**Past Participle (Passive Voice):**
-- The book was **written** by Shakespeare.
-- The window was **broken** by the storm.
-- The car has been **stolen**.
 
 ---
 
