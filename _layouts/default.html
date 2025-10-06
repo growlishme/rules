@@ -6,11 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <!-- PWA Meta Tags -->
-  <meta name="theme-color" content="#000000">
+  <meta name="theme-color" content="#0b1021">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="GrowLish">
-  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileColor" content="#0b1021">
   <meta name="msapplication-tap-highlight" content="no">
   
   <!-- PWA Manifest -->
@@ -36,16 +36,7 @@
   {% endif %}
 </head>
 <body>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a class="brand" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/favicon.svg' | relative_url }}" alt="Logo">
-        <span>{{ site.title }}</span>
-      </a>
-
-      <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
-    </div>
-  </header>
+  <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
 
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">

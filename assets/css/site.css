@@ -136,44 +136,6 @@ main td {
     word-break: break-word;
 }
 
-.site-header {
-    position: sticky;
-    top: 0;
-    z-index: 40;
-    backdrop-filter: saturate(180%) blur(8px);
-    background: rgba(255, 255, 255, 0.75);
-    border-bottom: 1px solid var(--border);
-}
-
-@media (prefers-color-scheme: dark) {
-    .site-header {
-        background: rgba(16, 23, 42, 0.75);
-    }
-}
-
-.site-header-inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 10px 16px;
-}
-
-.brand {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    font-weight: 700;
-    color: var(--text);
-    text-decoration: none;
-}
-
-.brand img {
-    width: 22px;
-    height: 22px;
-}
-
 .layout {
     display: flex;
     align-items: flex-start;
