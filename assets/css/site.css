@@ -61,14 +61,6 @@ main {
     max-width: 980px;
 }
 
-.content {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
-    padding: 24px;
-}
-
 main h1,
 main h2,
 main h3 {
@@ -140,8 +132,6 @@ main td {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    gap: 20px;
-    padding: 16px;
 }
 
 /* Responsive: stack sidebar on small screens */

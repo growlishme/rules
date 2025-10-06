@@ -1,5 +1,9 @@
-.toggle {
-    position: relative;
+.menu-button {
+    position: fixed;
+    right: 8px;
+    bottom: 50px;
+    z-index: 100;
+    
     width: 40px;
     height: 40px;
     background: var(--surface);
@@ -12,7 +16,7 @@
     overflow: hidden;
 }
 
-.toggle span {
+.menu-button span {
     position: absolute;
     width: 24px;
     height: 3px;
@@ -21,30 +25,30 @@
     transition: 0.3s ease;
 }
 
-.toggle span:nth-child(2) {
+.menu-button span:nth-child(2) {
     transform: translateY(-8px);
     width: 16px;
     left: 8px;
 }
 
-.toggle span:nth-child(3) {
+.menu-button span:nth-child(3) {
     transform: translateY(8px);
     width: 12px;
     left: 8px;
 }
 
 /* Checkbox-driven state */
-.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(1) {
+.sidebar-toggle:checked~.menu-button span:nth-child(1) {
     transform: translateX(40px);
 }
 
-.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(2) {
+.sidebar-toggle:checked~.menu-button span:nth-child(2) {
     width: 24px;
     transform: translateX(0) rotate(45deg);
     transition-delay: 0.1s;
 }
 
-.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(3) {
+.sidebar-toggle:checked~.menu-button span:nth-child(3) {
     width: 24px;
     transform: translateX(0) rotate(-45deg);
     transition-delay: 0.2s;

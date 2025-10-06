@@ -44,18 +44,14 @@
 <body>
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
-    <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">
-      <div class="toggle">
-        <span/>
-        <span/>
-        <span/>
-      </div>
+    <label for="sidebar-toggle" class="menu-button" aria-label="Open menu">
+      <span></span>
+      <span></span>
+      <span></span>
     </label>
     {% include sidebar.html %}
     <main>
-      <div class="content">
-        {{ content }}
-      </div>
+      {{ content }}
     </main>
   </div>
   
