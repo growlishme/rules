@@ -1,10 +1,11 @@
 .toggle {
     position: relative;
-    width: 70px;
-    height: 70px;
-    background: #fff;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
-    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+    background: var(--surface);
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,37 +14,38 @@
 
 .toggle span {
     position: absolute;
-    width: 40px;
-    height: 4px;
-    border-radius: 4px;
-    background: #1863ff;
-    transition: 0.5s;
+    width: 24px;
+    height: 3px;
+    border-radius: 3px;
+    background: var(--link);
+    transition: 0.3s ease;
 }
 
 .toggle span:nth-child(2) {
-    transform: translateY(-15px);
-    width: 25px;
-    left: 15px;
+    transform: translateY(-8px);
+    width: 16px;
+    left: 8px;
 }
 
 .toggle span:nth-child(3) {
-    transform: translateY(15px);
-    width: 15px;
-    left: 15px;
+    transform: translateY(8px);
+    width: 12px;
+    left: 8px;
 }
 
-.toggle.active span:nth-child(1) {
-    transform: translateX(60px);
+/* Checkbox-driven state */
+.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(1) {
+    transform: translateX(40px);
 }
 
-.toggle.active span:nth-child(2) {
-    width: 40px;
+.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(2) {
+    width: 24px;
     transform: translateX(0) rotate(45deg);
-    transition-delay: 0.2s;
+    transition-delay: 0.1s;
 }
 
-.toggle.active span:nth-child(3) {
-    width: 40px;
+.sidebar-toggle:checked~.sidebar-toggle-button .toggle span:nth-child(3) {
+    width: 24px;
     transform: translateX(0) rotate(-45deg);
-    transition-delay: 0.4s;
+    transition-delay: 0.2s;
 }

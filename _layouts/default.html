@@ -42,16 +42,15 @@
   {% endif %}
 </head>
 <body>
-  <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">
-    <div class="toggle">
-      <span/>
-      <span/>
-      <span/>
-    </div>
-  </label>
-
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
+    <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">
+      <div class="toggle">
+        <span/>
+        <span/>
+        <span/>
+      </div>
+    </label>
     {% include sidebar.html %}
     <main>
       <div class="content">
