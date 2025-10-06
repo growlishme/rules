@@ -2,6 +2,7 @@
     min-width: 260px;
     position: sticky;
     top: 16px;
+    padding: 0 16px;
     border-right: 1px solid var(--border);
     background: var(--surface);
     max-height: calc(100vh - 32px);
