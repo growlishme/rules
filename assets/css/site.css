@@ -300,7 +300,7 @@ main td {
         opacity: 0;
         pointer-events: none;
         transition: opacity 180ms ease-out;
-        z-index: 20;
+        z-index: 50;
     }
 
     /* Checkbox-driven state */
