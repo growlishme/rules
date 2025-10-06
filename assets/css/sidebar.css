@@ -2,7 +2,6 @@
     min-width: 260px;
     position: sticky;
     top: 16px;
-    padding: 16px;
     border-right: 1px solid var(--border);
     background: var(--surface);
     max-height: calc(100vh - 32px);
@@ -54,7 +53,7 @@
 
 .menu-button {
     position: fixed;
-    right: 8px;
+    right: 16px;
     bottom: 50px;
     z-index: 100;
 
@@ -64,7 +63,6 @@
     box-shadow: var(--shadow-md);
     border: 1px solid var(--border);
     border-radius: var(--radius-md);
-    display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
@@ -119,9 +117,9 @@
         height: 100vh;
         max-height: 100vh;
         width: 100%;
+        padding: 16px;
         transform: translateX(-100%);
         transition: transform 180ms ease-out;
-        border-radius: 0 var(--radius-md) var(--radius-md) 0;
         z-index: 60;
     }
 
