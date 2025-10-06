@@ -36,15 +36,29 @@
   {% endif %}
 </head>
 <body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/favicon.svg' | relative_url }}" alt="Logo">
+        <span>{{ site.title }}</span>
+      </a>
+      <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰ Menu</label>
+    </div>
+  </header>
+
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
-    <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰ Menu</label>
     <label for="sidebar-toggle" class="sidebar-overlay"></label>
     {% include sidebar.html %}
     <main>
-      {{ content }}
+      <div class="content">
+        {{ content }}
+      </div>
     </main>
   </div>
+  <footer class="site-footer">
+    <small>© {{ site.time | date: '%Y' }} {{ site.title }} · Built with Jekyll</small>
+  </footer>
   
   <!-- Service Worker Registration -->
   <script>
