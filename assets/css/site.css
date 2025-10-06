@@ -268,20 +268,16 @@ main td {
         z-index: 60;
     }
 
-    /* Show toggle button on mobile */
     .sidebar-toggle-button {
         display: inline-flex;
         align-items: center;
         justify-content: center;
         padding: 6px 10px;
         margin: 8px;
-        border-radius: var(--radius-sm);
-        background: var(--text);
-        color: var(--surface);
+        color: var(--text);
         font-weight: 700;
-        font-size: 18px;
+        font-size: 24px;
         user-select: none;
-        box-shadow: var(--shadow-md);
     }
 
     .sidebar-toggle {
