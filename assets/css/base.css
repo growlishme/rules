@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-/* Design tokens */
 :root {
     --bg: #0b1021;
     --bg-elev: #0f152b;
@@ -54,11 +53,8 @@ body {
 main {
     flex: 1;
     min-width: 0;
-}
-
-/* Global readability tweaks */
-main {
     max-width: 980px;
+    padding: 16px;
 }
 
 main h1,

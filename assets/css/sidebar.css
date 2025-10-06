@@ -3,18 +3,10 @@
     position: sticky;
     top: 16px;
     padding: 16px;
-    border: 1px solid var(--border);
-    border-radius: var(--radius-md);
+    border-right: 1px solid var(--border);
     background: var(--surface);
-    box-shadow: var(--shadow-sm);
     max-height: calc(100vh - 32px);
     overflow: auto;
-}
-
-.sidebar-subtitle {
-    font-weight: 600;
-    margin: 14px 0 8px;
-    font-size: 14px;
 }
 
 .sidebar-nav a,
@@ -36,7 +28,6 @@
     outline: none;
 }
 
-/* Optional active state (works if aria-current="page" is present) */
 .sidebar-nav a[aria-current="page"],
 .sidebar-subnav a[aria-current="page"],
 .sidebar-nav a.active,
@@ -45,7 +36,6 @@
     color: var(--link);
 }
 
-/* Subnavigation indentation */
 .sidebar-subnav {
     margin-left: 10px;
     padding-left: 12px;
@@ -57,14 +47,71 @@
     color: var(--muted);
 }
 
-/* Hide toggle elements on desktop */
-.sidebar-toggle-button,
 .sidebar-toggle,
-.sidebar-overlay {
+.menu-button {
     display: none;
 }
 
+.menu-button {
+    position: fixed;
+    right: 8px;
+    bottom: 50px;
+    z-index: 100;
+
+    width: 40px;
+    height: 40px;
+    background: var(--surface);
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.menu-button span {
+    position: absolute;
+    width: 24px;
+    height: 3px;
+    border-radius: 3px;
+    background: var(--link);
+    transition: 0.3s ease;
+}
+
+.menu-button span:nth-child(2) {
+    transform: translateY(-8px);
+    width: 16px;
+    left: 8px;
+}
+
+.menu-button span:nth-child(3) {
+    transform: translateY(8px);
+    width: 12px;
+    left: 8px;
+}
+
+.sidebar-toggle:checked~.menu-button span:nth-child(1) {
+    transform: translateX(40px);
+}
+
+.sidebar-toggle:checked~.menu-button span:nth-child(2) {
+    width: 24px;
+    transform: translateX(0) rotate(45deg);
+    transition-delay: 0.1s;
+}
+
+.sidebar-toggle:checked~.menu-button span:nth-child(3) {
+    width: 24px;
+    transform: translateX(0) rotate(-45deg);
+    transition-delay: 0.2s;
+}
+
 @media (max-width: 900px) {
+    .menu-button {
+        display: flex;
+    }
+
     .sidebar {
         position: fixed;
         top: 0;
@@ -78,18 +125,6 @@
         z-index: 60;
     }
 
-    .sidebar-toggle {
-        position: absolute;
-        width: 1px;
-        height: 1px;
-        padding: 0;
-        margin: -1px;
-        overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-        border: 0;
-    }
-
-    /* Checkbox-driven state */
     .sidebar-toggle:checked~.sidebar {
         transform: translateX(0);
     }
