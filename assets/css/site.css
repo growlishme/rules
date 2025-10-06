@@ -142,7 +142,7 @@ body {
         transform: translateX(-100%);
         transition: transform 180ms ease-out;
         border-radius: 0 var(--radius-md) var(--radius-md) 0;
-        z-index: 30;
+        z-index: 60;
     }
 
     /* Show toggle button on mobile */
@@ -322,12 +322,12 @@ main tr:nth-child(even) td {
 }
 
 .table-responsive th {
-    background: #fcfcfd;
+    background: var(--bg-elev);
     text-align: left;
 }
 
 .table-responsive tr:nth-child(even) td {
-    background: #fcfcfd;
+    background: var(--bg-elev);
 }
 
 /* Header / Footer */
