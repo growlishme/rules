@@ -22,7 +22,13 @@
   
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/table-responsive.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/toggle.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/sidebar.css' | relative_url }}" />
+
+  <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
   <title>{{ page.title | default: site.title }}</title>
   <style>
     /* Minimal reset for markdown content */
@@ -36,11 +42,16 @@
   {% endif %}
 </head>
 <body>
-  <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
+  <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">
+    <div class="toggle">
+      <span/>
+      <span/>
+      <span/>
+    </div>
+  </label>
 
   <div class="layout">
     <input type="checkbox" id="sidebar-toggle" class="sidebar-toggle">
-    <label for="sidebar-toggle" class="sidebar-overlay"></label>
     {% include sidebar.html %}
     <main>
       <div class="content">

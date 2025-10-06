@@ -1,0 +1,102 @@
+.sidebar {
+    min-width: 260px;
+    position: sticky;
+    top: 16px;
+    padding: 16px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    box-shadow: var(--shadow-sm);
+    max-height: calc(100vh - 32px);
+    overflow: auto;
+}
+
+.sidebar-subtitle {
+    font-weight: 600;
+    margin: 14px 0 8px;
+    font-size: 14px;
+}
+
+.sidebar-nav a,
+.sidebar-subnav a {
+    display: block;
+    margin: 4px 0;
+    text-decoration: none;
+    color: var(--text);
+    padding: 8px 10px;
+    border-radius: var(--radius-sm);
+    transition: background-color 120ms ease, color 120ms ease;
+}
+
+.sidebar-nav a:hover,
+.sidebar-nav a:focus-visible,
+.sidebar-subnav a:hover,
+.sidebar-subnav a:focus-visible {
+    background: rgba(29, 78, 216, 0.08);
+    outline: none;
+}
+
+/* Optional active state (works if aria-current="page" is present) */
+.sidebar-nav a[aria-current="page"],
+.sidebar-subnav a[aria-current="page"],
+.sidebar-nav a.active,
+.sidebar-subnav a.active {
+    background: rgba(29, 78, 216, 0.14);
+    color: var(--link);
+}
+
+/* Subnavigation indentation */
+.sidebar-subnav {
+    margin-left: 10px;
+    padding-left: 12px;
+    border-left: 2px solid var(--border);
+}
+
+.sidebar-subnav a {
+    font-size: 14px;
+    color: var(--muted);
+}
+
+/* Hide toggle elements on desktop */
+.sidebar-toggle-button,
+.sidebar-toggle,
+.sidebar-overlay {
+    display: none;
+}
+
+@media (max-width: 900px) {
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        max-height: 100vh;
+        width: 100%;
+        max-width: 320px;
+        transform: translateX(-100%);
+        transition: transform 180ms ease-out;
+        border-radius: 0 var(--radius-md) var(--radius-md) 0;
+        z-index: 60;
+    }
+
+    .sidebar-toggle {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        border: 0;
+    }
+
+    /* Checkbox-driven state */
+    .sidebar-toggle:checked~.sidebar {
+        transform: translateX(0);
+    }
+
+    .sidebar-toggle:checked~.sidebar-overlay {
+        opacity: 1;
+        pointer-events: auto;
+    }
+}
