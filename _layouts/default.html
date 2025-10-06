@@ -38,11 +38,12 @@
 <body>
   <header class="site-header">
     <div class="site-header-inner">
+      <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
+
       <a class="brand" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/favicon.svg' | relative_url }}" alt="Logo">
         <span>{{ site.title }}</span>
       </a>
-      <label for="sidebar-toggle" class="sidebar-toggle-button" aria-label="Open menu">☰</label>
     </div>
   </header>
 
@@ -56,11 +57,7 @@
       </div>
     </main>
   </div>
-  <footer class="site-footer">
-    <small>© {{ site.time | date: '%Y' }} {{ site.title }} · Built with Jekyll</small>
-  </footer>
   
-  <!-- Service Worker Registration -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {

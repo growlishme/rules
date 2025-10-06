@@ -51,6 +51,129 @@ body {
         var(--surface);
 }
 
+main {
+    flex: 1;
+    min-width: 0;
+}
+
+/* Global readability tweaks */
+main {
+    max-width: 980px;
+}
+
+.content {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+    padding: 24px;
+}
+
+main h1,
+main h2,
+main h3 {
+    line-height: 1.25;
+    margin-bottom: 12px;
+}
+
+main h1 {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    font-size: 32px;
+}
+
+main h2 {
+    font-weight: 700;
+    margin-top: 28px;
+    font-size: 24px;
+}
+
+main h3 {
+    font-weight: 600;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+main a {
+    color: var(--link);
+}
+
+main a:hover {
+    color: var(--link-hover);
+}
+
+main code {
+    background: var(--code-bg);
+    padding: 0 6px;
+    border-radius: var(--radius-sm);
+}
+
+main pre {
+    background: var(--pre-bg);
+    color: var(--pre-fg);
+    padding: 14px;
+    border-radius: var(--radius-md);
+    overflow: auto;
+}
+
+main ul,
+main ol {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 12px;
+}
+
+main hr {
+    margin: 24px 0;
+    border: 1px solid var(--border);
+}
+
+main th,
+main td {
+    border: 1px solid var(--border);
+    padding: 10px 12px;
+    vertical-align: top;
+    word-break: break-word;
+}
+
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    backdrop-filter: saturate(180%) blur(8px);
+    background: rgba(255, 255, 255, 0.75);
+    border-bottom: 1px solid var(--border);
+}
+
+@media (prefers-color-scheme: dark) {
+    .site-header {
+        background: rgba(16, 23, 42, 0.75);
+    }
+}
+
+.site-header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 16px;
+}
+
+.brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    color: var(--text);
+    text-decoration: none;
+}
+
+.brand img {
+    width: 22px;
+    height: 22px;
+}
+
 .layout {
     display: flex;
     align-items: flex-start;
@@ -195,101 +318,6 @@ body {
     }
 }
 
-main {
-    flex: 1;
-    min-width: 0;
-}
-
-/* Global readability tweaks */
-main {
-    max-width: 980px;
-    padding: 24px 8px 40px;
-}
-
-.content {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
-    padding: 24px;
-}
-
-main h1,
-main h2,
-main h3 {
-    line-height: 1.25;
-    margin-bottom: 12px;
-}
-
-main h1 {
-    font-weight: 700;
-    letter-spacing: -0.01em;
-    font-size: 32px;
-}
-
-main h2 {
-    font-weight: 700;
-    margin-top: 28px;
-    font-size: 24px;
-}
-
-main h3 {
-    font-weight: 600;
-    margin-top: 20px;
-    font-size: 18px;
-}
-
-main a {
-    color: var(--link);
-}
-
-main a:hover {
-    color: var(--link-hover);
-}
-
-main code {
-    background: var(--code-bg);
-    padding: 0 6px;
-    border-radius: var(--radius-sm);
-}
-
-main pre {
-    background: var(--pre-bg);
-    color: var(--pre-fg);
-    padding: 14px;
-    border-radius: var(--radius-md);
-    overflow: auto;
-}
-
-main ul,
-main ol {
-    list-style-type: disc;
-    margin-left: 20px;
-    margin-bottom: 12px;
-}
-
-main hr {
-    margin: 24px 0;
-    border: 1px solid var(--border);
-}
-
-main th,
-main td {
-    border: 1px solid var(--border);
-    padding: 10px 12px;
-    vertical-align: top;
-    word-break: break-word;
-}
-
-main th {
-    background: #f9fafb;
-    text-align: left;
-}
-
-main tr:nth-child(even) td {
-    background: #fcfcfd;
-}
-
 .table-responsive {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -328,50 +356,4 @@ main tr:nth-child(even) td {
 
 .table-responsive tr:nth-child(even) td {
     background: var(--bg-elev);
-}
-
-/* Header / Footer */
-.site-header {
-    position: sticky;
-    top: 0;
-    z-index: 40;
-    backdrop-filter: saturate(180%) blur(8px);
-    background: rgba(255, 255, 255, 0.75);
-    border-bottom: 1px solid var(--border);
-}
-
-@media (prefers-color-scheme: dark) {
-    .site-header {
-        background: rgba(16, 23, 42, 0.75);
-    }
-}
-
-.site-header-inner {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 10px 16px;
-}
-
-.brand {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    font-weight: 700;
-    color: var(--text);
-    text-decoration: none;
-}
-
-.brand img {
-    width: 22px;
-    height: 22px;
-}
-
-.site-footer {
-    max-width: 1200px;
-    margin: 24px auto 40px;
-    padding: 0 16px;
-    color: var(--muted);
 }
